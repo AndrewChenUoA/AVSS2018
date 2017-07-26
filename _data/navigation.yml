@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Call for Papers"
-    url: /calls/papers
+  - title: "Calls"
+  children:
+    title: "Call for Papers"
+    url: /cfp
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,6 +14,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
 side:
    - title: "Call for Papers"
-     url: /calls/papers
+     url: /cfp
