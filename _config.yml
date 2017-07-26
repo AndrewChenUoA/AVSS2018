@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "AVSS 2018"
 title_separator          : "-"
-name                     : "AVSS 2018 Web Chair"
+name                     : "AVSS 2018 Committee"
 description              : "IEEE International Conference on Advanced Video and Signal-based Surveillance"
 url                      : #http://www.avss2018.org
 baseurl                  : # the subpath of your site, e.g. "/blog"
