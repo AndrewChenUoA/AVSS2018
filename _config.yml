@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-NZ"
+locale                   : "en"
 title                    : "AVSS 2018"
 title_separator          : "-"
 name                     : "AVSS 2018 Web Chair"
@@ -162,4 +162,3 @@ defaults:
       comments: false
       share: false
       related: false
-        
