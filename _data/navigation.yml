@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Call for Papers"
+    url: /calls/papers
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -11,4 +13,5 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 side:
-   
+   - title: "Call for Papers"
+     url: /calls/papers
