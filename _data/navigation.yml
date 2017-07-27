@@ -15,6 +15,7 @@ main:
   
 side:
   - title: Calls
+    url: /cfp
     children:
       - title: "for Papers"
         url: /cfp
@@ -24,6 +25,7 @@ side:
         url: /cfc
         
   - title: Conference
+    url: /program
     children:
       - title: "Registration"
         url: /registration
@@ -39,6 +41,7 @@ side:
         url: /committees
         
   - title: Authors
+    url: /submission
     children:
       - title: "Submission"
         url: /submission
