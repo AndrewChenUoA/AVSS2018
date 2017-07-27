@@ -12,37 +12,38 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  
 side:
-   - title: Calls
+  - title: Calls
     children:
-        - title: "for Papers"
-            url: /cfp
-        - title: "for Workshops"
-            url: /cfw
-        - title: "for Challenges"
-            url: /cfc
+      - title: "for Papers"
+        url: /cfp
+      - title: "for Workshops"
+        url: /cfw
+      - title: "for Challenges"
+        url: /cfc
         
-   - title: Conference
-   children:
-    - title: "Registration"
+  - title: Conference
+    children:
+      - title: "Registration"
         url: /registration
     #- title: "Keynote Speakers"
     #    url: /keynote
-    - title: "Program"
+      - title: "Program"
         url: /program
-    - title: "Workshops"
+      - title: "Workshops"
         url: /workshops
-    - title: "Travel and Accommodation"
+      - title: "Travel and Accommodation"
         url: /travel
-    - title: "Committees"
+      - title: "Committees"
         url: /committees
         
-    - title: Authors
+  - title: Authors
     children:
-    - title: "Submission"
+      - title: "Submission"
         url: /submission
-    - title: "Camera-Ready"
+      - title: "Camera-Ready"
         url: /cameraready
         
-    -title: "Sponsorship"
-        url: /sponsorship
+  - title: "Sponsorship"
+    url: /sponsorship
