@@ -27,14 +27,16 @@ side:
   - title: Conference
     url: /program
     children:
-      - title: "Registration"
-        url: /registration
-    #- title: "Keynote Speakers"
-    #    url: /keynote
       - title: "Program"
         url: /program
       - title: "Workshops"
         url: /workshops
+      - title: "Keynote Speakers"
+        url: /keynotes
+      - title: "Registration"
+        url: /registration
+      - title: "Venue"
+        url: /venue
       - title: "Travel and Accommodation"
         url: /travel
       - title: "Committees"
