@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /cfp
+permalink: /sponsorship
 ---
 Information will be provided here soon!

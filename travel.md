@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /cfp
+permalink: /travel
 ---
 Information will be provided here soon!

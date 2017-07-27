@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /cfp
+permalink: /workshops
 ---
 Information will be provided here soon!

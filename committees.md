@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /cfp
+permalink: /committees
 ---
 Information will be provided here soon!

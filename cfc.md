@@ -1,5 +1,5 @@
 ---
 layout: single
-permalink: /cfp
+permalink: /cfc
 ---
 Information will be provided here soon!

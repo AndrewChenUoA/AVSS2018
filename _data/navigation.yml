@@ -13,5 +13,36 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 side:
-   - title: "Call for Papers"
-     url: /cfp
+   - title: "Calls"
+   children:
+    - title: "for Papers"
+        url: /cfp
+    - title: "for Workshops"
+        url: /cfw
+    - title: "for Challenges"
+        url: /cfc
+        
+   - title: "Conference
+   children:
+    - title: "Registration"
+        url: /registration
+    #- title: "Keynote Speakers"
+    #    url: /keynote
+    - title: "Program"
+        url: /program
+    - title: "Workshops"
+        url: /workshops
+    - title: "Travel and Accommodation"
+        url: /travel
+    - title: "Committees"
+        url: /committees
+        
+    - title: "Authors"
+    children:
+    - title: "Submission"
+        url: /submission
+    - title: "Camera-Ready"
+        url: /cameraready
+        
+    -title: "Sponsorship"
+        url: /sponsorship
