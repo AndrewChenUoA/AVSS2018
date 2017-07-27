@@ -13,16 +13,16 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 side:
-   - title: "Calls"
-   children:
-    - title: "for Papers"
-        url: /cfp
-    - title: "for Workshops"
-        url: /cfw
-    - title: "for Challenges"
-        url: /cfc
+   - title: Calls
+    children:
+        - title: "for Papers"
+            url: /cfp
+        - title: "for Workshops"
+            url: /cfw
+        - title: "for Challenges"
+            url: /cfc
         
-   - title: "Conference
+   - title: Conference
    children:
     - title: "Registration"
         url: /registration
@@ -37,7 +37,7 @@ side:
     - title: "Committees"
         url: /committees
         
-    - title: "Authors"
+    - title: Authors
     children:
     - title: "Submission"
         url: /submission
