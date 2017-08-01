@@ -14,6 +14,9 @@ main:
   #   url: /sitemap/
   
 side:
+  - title: "Home"
+    url: /
+
   - title: Calls
     url: /cfp
     children:
@@ -52,3 +55,6 @@ side:
         
   - title: "Sponsorship"
     url: /sponsorship
+    
+  - image: /assets/images/ieee.jpg
+    url: "http://ieee.org"
