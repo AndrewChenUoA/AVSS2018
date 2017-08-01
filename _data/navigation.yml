@@ -40,7 +40,7 @@ side:
         url: /registration
       - title: "Venue"
         url: /venue
-      - title: "Travel and Accommodation"
+      - title: "Travel + Accommodation"
         url: /travel
       - title: "Committees"
         url: /committees
