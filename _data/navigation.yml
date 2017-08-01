@@ -55,6 +55,5 @@ side:
         
   - title: "Sponsorship"
     url: /sponsorship
-    
-  - image: /assets/images/ieee.jpg
-    url: "http://ieee.org"
+    image: /assets/images/ieee.jpg
+    image_alt: "IEEE"
