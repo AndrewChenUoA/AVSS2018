@@ -39,7 +39,7 @@ permalink: /committees
 - Zixiang Xiong (Texas A&M University, USA)
 
 **Industrial Chair:**
-- John Adrienne Houlker (Wellington, New Zealand)
+- John Houlker (Wellington, New Zealand)
 
 **Challenge Chairs:**
 - Chang-Tsun Li (Charles Sturt University, Australia)
