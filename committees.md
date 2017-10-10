@@ -16,23 +16,23 @@ permalink: /committees
 - Feng Liu (Chinese Academy of Sciences, China)
 
 **Area Chairs:**
-ANALYTICS, SITUATION AWARENESS & DECISION-MAKING
-- Anthony Hoogs (Kitware, Inc., USA)
+- ANALYTICS, SITUATION AWARENESS & DECISION-MAKING<br/>
+&ensp;Anthony Hoogs (Kitware, Inc., USA)
 
-PROCESSING, DETECTION, TRACKING & RECOGNITION
-- Simone Calderara (UNIMORE, Modena, Italy)
+- PROCESSING, DETECTION, TRACKING & RECOGNITION<br/>
+&ensp;Simone Calderara (UNIMORE, Modena, Italy)
 
-SECURITY & PRIVACY
-- Patrick Grother (National Institute of Standards and Technology, USA)
+- SECURITY & PRIVACY<br/>
+&ensp;Patrick Grother (National Institute of Standards and Technology, USA)
 
-SENSOR-CENTRIC PROCESSING
-- Saibal Mukhopadhyay (Georgia Institute of Technology, USA)
+- SENSOR-CENTRIC PROCESSING<br/>
+&ensp;Saibal Mukhopadhyay (Georgia Institute of Technology, USA)
 
-SURVEILLANCE SYSTEMS AND APPLICATIONS
-- Alessia Saggese (University of Salerno, Italy)
+- SURVEILLANCE SYSTEMS AND APPLICATIONS<br/>
+&ensp;Alessia Saggese (University of Salerno, Italy)
 
-VISUALIZATION AND INTERACTION CONCEPTS FOR SURVEILLANCE SYSTEMS
-- Amy Loufti (University of Modena and Reggio Emilia, Italy)
+- VISUALIZATION AND INTERACTION CONCEPTS FOR SURVEILLANCE SYSTEMS<br/>
+&ensp;Amy Loufti (University of Modena and Reggio Emilia, Italy)
 
 **Organization Chairs:**
 - Minh Nguyen (Auckland University of Technology, New Zealand)
