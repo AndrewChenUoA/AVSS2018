@@ -5,10 +5,11 @@ permalink: /cfp
 **Call for Papers**
 
 Prospective authors are invited to submit high-quality full papers representing original results in all areas of video and signal-based surveillance. Submissions and final papers are limited to 6 pages in double-column IEEE format, including figures, but not counting the list of references. Accepted papers are published in the conference proceedings that will be also available in the IEEE Xplore digital library.
+
 AVSS addresses underlying theory, methods, systems, and applications of video and signal based surveillance. AVSS invites submissions in areas listed below, especially on cross-disciplinary and game-changing subjects. The list of topics of interest includes, but is not limited to:
 
 SENSOR-CENTRIC PROCESSING:<br/>
-- Sensors (visible/infrared/3D/mm wave/audio/radio, etc.) | Ground, airborne, satellite based (fixed / mobile /UAV) | Crowdsourcing (cellular/social networks) | Calibration and positioning (GPS, etc.) | Communications and networked sensing | Distributed Camera Networks and Smart Cameras | Participatory Sensing
+Sensors (visible/infrared/3D/mm wave/audio/radio, etc.) | Ground, airborne, satellite based (fixed / mobile /UAV) | Crowdsourcing (cellular/social networks) | Calibration and positioning (GPS, etc.) | Communications and networked sensing | Distributed Camera Networks and Smart Cameras | Participatory Sensing
 
 PROCESSING, DETECTION, TRACKING & RECOGNITION:<br/>
 Modelling and feature selection | Detection and estimation (change/motion/anomaly/saliency/pattern) | Data association and (multi) target tracking | Classification and recognition | Multi-modal fusion
@@ -25,10 +26,11 @@ Data authenticity | Privacy in surveillance | Forensics | Biometrics (standoff, 
 SURVEILLANCE SYSTEMS AND APPLICATIONS<br/>
 Hardware and software architectures | Research prototypes | Simulators | Civilian, industrial, and military | Transportation (road, rail, air, maritime) | Performance evaluation
 
-Original contributions in any of the above (or related) areas are being solicited. Prospective authors are invited to submit full-length papers, up to 6 pages long, including results, figures, tables and references by the due date (see below). Detailed submission instructions will be posted on Paper Submission page in due time. Each submission will be double-blind peer-reviewed by at least two experts. Detailed instructions for submissions are available soon.
+Original contributions in any of the above (or related) areas are being solicited. Prospective authors are invited to submit full-length papers, up to 6 pages long, including results, figures, tables and references by the due date (see below). Detailed submission instructions will be posted on the Paper Submission page in due time. Each submission will be double-blind peer-reviewed by at least two experts.
 
 **Important Dates**<br/>
-- Submission of Full Papers: 1 June 2018 (23:59:59 PST)
+- Preliminary Abstract Submission: 1 June 2018
+- Submission of Full Papers: 15 June 2018 (23:59:59 PST)
 - Notification of Acceptance: 1 September 2018
 - Submission of Camera Ready Papers: 15 September 2018
 - Conference: 27-30 November 2018
