@@ -40,6 +40,7 @@ permalink: /committees
 
 **Industrial Chair:**
 - John Houlker (Wellington, New Zealand)
+- Lidong Zhai (Institute of Computing, Chinese Academy of Sciences, China)
 
 **Challenge Chairs:**
 - Chang-Tsun Li (Charles Sturt University, Australia)
