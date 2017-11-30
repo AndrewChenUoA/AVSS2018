@@ -52,6 +52,8 @@ side:
         url: /submission
       - title: "Camera-Ready"
         url: /cameraready
+      - title: "Journals"
+        url: /journals
         
   - title: "Sponsorship"
     url: /sponsorship
