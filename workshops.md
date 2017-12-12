@@ -2,4 +2,4 @@
 layout: single
 permalink: /workshops
 ---
-Information will be provided here soon!
+Workshop links will be provided after April 15, 2018.

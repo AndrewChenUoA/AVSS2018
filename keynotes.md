@@ -2,4 +2,4 @@
 layout: single
 permalink: /keynotes
 ---
-Information will be provided here soon!
+Three keynote speakers will be listed here by February 28, 2018.
