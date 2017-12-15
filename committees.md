@@ -69,6 +69,7 @@ permalink: /committees
 - Nicolai Petkov (Groningen, The Netherlands)
 
 **Local Organising Office:**
+- Glen Bailey (Auckland University of Technology, New Zealand) (Administration and Logistics)
 - Gisela Klette (BlueVolcano, New Zealand) (Administration and Logistics)
 - Andrew Chen (University of Auckland, New Zealand) (Website)
 - Zahra Moayed (Auckland University of Technology, New Zealand) (Enquiries)
