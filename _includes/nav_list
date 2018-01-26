@@ -44,4 +44,5 @@
       </li>
     {% endfor %}
   </ul>
+  <a href="http://www.ieee.org"><img src="/assets/images/ieee.jpg" style="max-width:90%"/></a>  
 </nav>
