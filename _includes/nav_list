@@ -43,6 +43,6 @@
         {% endif %}
       </li>
     {% endfor %}
+    <a href="http://www.ieee.org"><img src="/assets/images/ieee.jpg" style="max-width:90%"/></a>  
   </ul>
-  <a href="http://www.ieee.org"><img src="/assets/images/ieee.jpg" style="max-width:90%"/></a>  
 </nav>
