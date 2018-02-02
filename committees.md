@@ -17,28 +17,28 @@ permalink: /committees
 
 **Area Chairs:**
 - ANALYTICS, SITUATION AWARENESS & DECISION-MAKING<br/>
-&ensp;Anthony Hoogs (Kitware, Inc., USA)<br/>
-&ensp;Tiejun Huang (Peking University, China)
+Anthony Hoogs (Kitware, Inc., USA)<br/>
+Tiejun Huang (Peking University, China)
 
 - PROCESSING, DETECTION, TRACKING & RECOGNITION<br/>
-&ensp;Simone Calderara (UNIMORE, Modena, Italy)<br/>
-&ensp;Bohyung Han (Pohang University of Science and Technology, Korea)
+Simone Calderara (UNIMORE, Modena, Italy)<br/>
+Bohyung Han (Pohang University of Science and Technology, Korea)
 
 - SECURITY & PRIVACY<br/>
-&ensp;Patrick Grother (National Institute of Standards and Technology, USA)<br/>
-&ensp;Rizwan Asghar (University of Auckland, New Zealand)
+Patrick Grother (National Institute of Standards and Technology, USA)<br/>
+Rizwan Asghar (University of Auckland, New Zealand)
 
 - SENSOR-CENTRIC PROCESSING<br/>
-&ensp;Saibal Mukhopadhyay (Georgia Institute of Technology, USA)<br/>
-&ensp;Ruli Wang (Massey University, New Zealand)
+Saibal Mukhopadhyay (Georgia Institute of Technology, USA)<br/>
+Ruli Wang (Massey University, New Zealand)
 
 - SURVEILLANCE SYSTEMS AND APPLICATIONS<br/>
-&ensp;Alessia Saggese (University of Salerno, Italy)<br/>
-&ensp;Xiafeng Zhao (Chinese Academy of Sciences, China)
+Alessia Saggese (University of Salerno, Italy)<br/>
+Xiafeng Zhao (Chinese Academy of Sciences, China)
 
 - VISUALIZATION AND INTERACTION CONCEPTS FOR SURVEILLANCE SYSTEMS<br/>
-&ensp;Amy Loufti (University of Modena and Reggio Emilia, Italy)<br/>
-&ensp;Faith Kurugollu (University of Derby, UK)
+Amy Loufti (University of Modena and Reggio Emilia, Italy)<br/>
+Faith Kurugollu (University of Derby, UK)
 
 **Organization Chairs:**
 - Minh Nguyen (Auckland University of Technology, New Zealand)
