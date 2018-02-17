@@ -28,6 +28,8 @@ Hardware and software architectures | Research prototypes | Simulators | Civilia
 
 Original contributions in any of the above (or related) areas are being solicited. Prospective authors are invited to submit full-length papers, up to 6 pages long, including results, figures, tables and references by the due date (see below). Detailed submission instructions will be posted on the Paper Submission page in due time. Each submission will be double-blind peer-reviewed by at least two experts.
 
+Paper submission is <a href="submission">now open</a>!
+
 **Important Dates**<br/>
 - Preliminary Abstract Submission: 1 June 2018
 - Submission of Full Papers: 15 June 2018 (23:59:59 PST)
