@@ -3,7 +3,8 @@ layout: single
 permalink: /submission
 ---
 **Paper Submission**
-Papers of up to *six pages*, excluding references, will be included in the proceedings. The maximum size of the abstract is 1000 characters. The paper must be in PDF format only (maximum 10MB). Papers submitted in other formats will be rejected.
+
+Papers of up to *six pages, excluding references*, will be included in the proceedings. The maximum size of the abstract is 1000 characters. The paper must be in PDF format only (maximum 10MB). Papers submitted in other formats will be rejected.
 
 A paper submission implies that, if the paper is accepted, one of the authors will present the paper/poster at the conference. Authors are responsible for obtaining any necessary visas and may need to start that process before final decisions are released. *Sending a video of the presentation in place of an author is NOT considered presenting.* **Papers that are not presented will be pulled from the IEEE proceedings and are not considered published.**
 
@@ -13,7 +14,7 @@ There are two sets of paper submission templates available:
 
 Detailed style and formatting instructions can be found in either template. The blue line numbers must not be removed in the version for review, as it greatly facilitates the review process. However, the line numbers must be removed in the final version. *Submissions not using the above templates or disclosing the identity of the authors will be rejected without review.*
 
-A complete paper must be submitted using *one of the above templates*, formatted for *double-blind review*, at: <a href="https://cmt3.research.microsoft.com/AVSS2018">https://cmt3.research.microsoft.com/AVSS2018</a>
+A complete paper must be submitted using *one of the above templates*, formatted for *double-blind review*, at: **<a href="https://cmt3.research.microsoft.com/AVSS2018">https://cmt3.research.microsoft.com/AVSS2018</a>**
 
 Make sure that your browser has cookies and Javascript enabled. Please add "cmt@microsoft.com" to your list of safe senders to prevent email announcements from being blocked. If your submission has co-authors, please make sure that you enter their email adresses that correspond exactly to their account names (assuming they have created accounts). They will ensure that your co-authors can also see your submission when they log in. Authorship cannot be changed during the review process.
 
