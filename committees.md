@@ -34,7 +34,7 @@ Ruli Wang (Massey University, New Zealand)
 
 - SURVEILLANCE SYSTEMS AND APPLICATIONS<br/>
 Alessia Saggese (University of Salerno, Italy)<br/>
-Xiafeng Zhao (Chinese Academy of Sciences, China)
+Xianfeng Zhao (Chinese Academy of Sciences, China)
 
 - VISUALIZATION AND INTERACTION CONCEPTS FOR SURVEILLANCE SYSTEMS<br/>
 Amy Loufti (University of Modena and Reggio Emilia, Italy)<br/>
