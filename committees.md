@@ -58,10 +58,11 @@ Faith Kurugollu (University of Derby, UK)
 
 **Publication Chair:**
 - Richard Green (University of Canterbury, New Zealand)
+- Manoranjan Mohanty (University of Auckland, New Zealand)
 
 **Asia Liaison:**
 - Mukesh Saini (Indian Institute of Technology, India)
-- Mutsuhiro Terauchi (Osaka, Japan)
+- Mutsuhiro Terauchi (Hiroshima International University, Japan)
 
 **Australia Liaison:**
 - Xufeng Lin (Charles Sturt University, Australia)
