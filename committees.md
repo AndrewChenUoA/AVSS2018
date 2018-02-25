@@ -66,6 +66,7 @@ Faith Kurugollu (University of Derby, UK)
 
 **Australia Liaison:**
 - Xufeng Lin (Charles Sturt University, Australia)
+- Jian Yu (Auckland University of Technology, New Zealand)
 
 **America Liaison:**
 - Domingo Mery (Santiago, Chile)
