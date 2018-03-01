@@ -4,7 +4,7 @@ permalink: /submission
 ---
 **Paper Submission**
 
-We invite submissions of up to *six pages, excluding references*. The maximum size of the abstract is 1000 characters. Any submission must be in PDF format (maximum 10MB); submissions in other formats will be rejected.
+We invite submissions of up to <b><i>six pages, excluding references</i></b>. The maximum size of the abstract is 1000 characters. Any submission must be in PDF format (maximum 10MB); submissions in other formats will be rejected.
 
 A paper submission implies that, if the paper is accepted, one of the authors will present the paper/poster at the conference. Authors are responsible for obtaining any necessary visas and may need to start that process before final decisions are released. *Sending a video of the presentation in place of an author is NOT considered presenting.* **Papers that are not presented will be pulled from the IEEE proceedings and are not considered published.**
 
