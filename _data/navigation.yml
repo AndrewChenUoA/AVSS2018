@@ -34,6 +34,8 @@ side:
         url: /program
       - title: "Workshops"
         url: /workshops
+      - title: "Challenges"
+        url: /challenges
       - title: "Keynote Speakers"
         url: /keynotes
       - title: "Registration"
