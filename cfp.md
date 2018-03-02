@@ -4,7 +4,7 @@ permalink: /cfp
 ---
 **Call for Papers**
 
-Prospective authors are invited to submit high-quality full papers representing original results in all areas of video and signal-based surveillance. Submissions and final papers are limited to 6 pages in double-column IEEE format, including figures, but not counting the list of references. Accepted papers are published in the conference proceedings that will be also available in the IEEE Xplore digital library.
+Prospective authors are invited to submit high-quality full papers representing original results in all areas of video and signal-based surveillance. Submissions and final papers are limited to 6 pages in double-column IEEE format, including figures and references. Accepted papers are published in the conference proceedings that will be also available in the IEEE Xplore digital library.
 
 AVSS addresses underlying theory, methods, systems, and applications of video and signal based surveillance. AVSS invites submissions in areas listed below, especially on cross-disciplinary and game-changing subjects. The list of topics of interest includes, but is not limited to:
 
