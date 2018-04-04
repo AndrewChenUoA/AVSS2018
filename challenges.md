@@ -4,7 +4,9 @@ permalink: /challenges
 ---
 **Challenges**
 
-Accepted Proposal I: **Challenge on Advanced Traffic Monitoring**
+Challenge A: **Challenge on Advanced Traffic Monitoring**
+
+More details to be provided soon!
 
 Organisers:<br/>
 - Marco Del Coco (Institute of Applied Sciences and Intelligent Systems, CNR, Italy)
@@ -12,7 +14,7 @@ Organisers:<br/>
 - Pierluigi Calcagni (Institute of Applied Sciences and Intelligent Systems, CNR, Italy)
 - Ming-Ching Chang (University at Albany, USA)
 
-Accepted Proposal II: **<a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a>**
+Challenge B: **<a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a>**
 
 In surveillance and security today it is a common goal to locate a subject of interest purely from a semantic description; think an offender description form handed into a law enforcement agency. To date, these tasks are primarily undertaken by operators on the ground either by manually searching a premises or by combing through hours of video footage. As such, the Australian Federal Police identified this area as a significant problem within law enforcement. To date, researchers have focused on person re-identification methodologies to solve this complex problem, however, in circumstances where pre-search subject enrollment images are not available, these techniques fail.
 
