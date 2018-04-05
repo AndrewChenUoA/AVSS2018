@@ -55,6 +55,7 @@ Faith Kurugollu (University of Derby, UK)
 **Publicity Chairs:**
 - Alvis Fong (Western Michigan University, USA)
 - Xiaotian Wu (Jinan University, China)
+- Eduardo Monari (Karlsruhe Institute of Technology, Germany)
 
 **Publication Chair:**
 - Richard Green (University of Canterbury, New Zealand)
