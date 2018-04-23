@@ -21,7 +21,7 @@ Potential topics include:
 - Applications and use cases for smart sensor systems.
 - Distributed networks of smart sensors.
 
-Papers are between 6-8 pages long, and will be reviewed by experts who span a range from computer vision, VLSI systems, and embedded computing.
+Papers are 6 pages long (including references), with up to two more pages (attracting extra page charges). Papers will be reviewed by experts who span a range from computer vision, VLSI systems, and embedded computing.
 
 **Deadlines**<br/>
 Submission: 7 September 2018<br/>
