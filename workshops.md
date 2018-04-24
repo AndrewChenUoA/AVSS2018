@@ -21,9 +21,23 @@ Potential topics include:
 - Applications and use cases for smart sensor systems.
 - Distributed networks of smart sensors.
 
-Papers are 6 pages long (including references), with up to two more pages (attracting extra page charges). Papers will be reviewed by experts who span a range from computer vision, VLSI systems, and embedded computing.
+Workshop II: **Human Behavior Analysis based on Video Analytics and Deep Learning**
+
+Organizers:
+- Dr. Maheshkumar H Kolekar, Inidian Institute of Technology Patna, <a href="mahesh@iitp.ac.in">mahesh@iitp.ac.in</a>
+- Dr. R. Balasubramanian, Indian Institute of Technology Roorkee, <a href="balarfma@iitr.ac.in">balarfma@iitr.ac.in</a>
+
+Human behavior recognition (HBR) is a key area in video analysis and machine learning application. Close circuit cameras are now widely used to increase security in many high alert areas such as airport, bus stop and railway station. There are various methods for analyzing human behavior such as sensor based activity recognition, gait analysis based activity recognition. Since video is a low cost and easy to use device for monitoring activities, video based human behavior analysis is widely used. Video analytics have application in patient’s behavior analysis also. Deep learning allows models that are composed of multiple processing layers to learn features of data with multiple levels of abstraction. Now-a-days deep learning techniques such as Convolutional Neural Network, Recurrent Neural Network have become popular for human activity recognition. The workshop aims at bringing computer vision and machine learning experts together for presenting their novel ideas in HBR using video processing and deep learning approach.  This will give a platform to researchers from both fields to discuss their original ideas in HBR, solution of existing HBR problems and look for future scope in designing more robust model for human behavior analysis system. 
+Scope and topics of interest include, but are not limited to: 
+- Human behavior analysis
+- Human activity recognition
+- Human/ Object tracking and classification
+- Crowd behavior analysis
+- Deep learning techniques application in human activity recognition
+- Video analytics for patient behavior analysis
 
 **Deadlines**<br/>
+Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
 Submission: 7 September 2018<br/>
 Notification of acceptance: 1 October 2018<br/>
 Camera-ready deadline: 15 October 2018<br/>
