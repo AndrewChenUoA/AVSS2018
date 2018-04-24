@@ -77,7 +77,7 @@ Faith Kurugollu (University of Derby, UK)
 **Europe Liaison:**
 - Nicolai Petkov (Groningen, The Netherlands)
 - Dmitry A. Tarasov (Ural Federal University, Russia)
-- Bernhard Rinner (Alpen-Adria-Universität Klagenfurt)
+- Bernhard Rinner (Alpen-Adria-Universität Klagenfurt, Austria)
 
 **Local Organising Office:**
 - Glen Bailey (Auckland University of Technology, New Zealand) (Administration and Logistics)
