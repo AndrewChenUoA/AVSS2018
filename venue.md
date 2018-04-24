@@ -6,7 +6,7 @@ permalink: /venue
 
 The conference will be held at the Auckland University of Technology's City Campus, in the WG building.
 
-| <img src="/assets/images/aut_wg_4-1000x563"> |
+| <img src="/assets/images/aut_wg_4-1000x563.jpg"> |
 
 **Hotels available**
 
