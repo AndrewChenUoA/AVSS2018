@@ -36,9 +36,22 @@ Scope and topics of interest include, but are not limited to:
 - Deep learning techniques application in human activity recognition
 - Video analytics for patient behavior analysis
 
+Workshop III: **Multi-source Surveillance for Public Safety and Healthcare**
+
+With rapid growth in sensing and communication technology, we have various new sources of information that can complement video to achieve robust and reliable surveillance, e.g. heat detector, smoke detector, infrared/thermal sensor, motion sensor, metal detectors, GPS, weather sensors, and various other sensors found on current smartphones. Additionally, online social networks and real-time news portals provide valuable information about individuals and surrounding environment. We can assimilate all these data from different sources to make accurate and reliable situation assessment using artificial intelligence (AI) and Deep learning (DL) methods. This workshop aims to bring together researchers that are specifically working on applying advanced learning techniques to exploit multi-source information for public safety and healthcare. The workshop aims to build a common platform for synergizing research efforts and develop innovative methods population health and safety. We solicit original and unpublished research papers that analyse multiple source for safety and healthcare applications. Topics for the workshop include, but are not limited to:
+- Multi-source data analysis for security threat and crime detection
+- Multi-source data analysis for forensics
+- Multi-source data analysis for abnormal situation monitoring
+- Advanced learning techniques for multi-source data analysis for safety and health
+- Multi-source data analysis for population health management
+- Multi-source data analysis for disease detection, diagnosis and treatment plans
+- Online social network analysis for safety and health monitoring
+- Multi-source data analysis for remote or tele-health management
+
+Researchers working on multimodal analysis of single source (such as image, audio, text) for public safety and healthcare are also encouraged to submit their original work. After the workshop, we intend to submit a special issue proposal in a reputable journal for extended papers of the workshop on the same topic.
+
 **Deadlines**<br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
 Submission: 7 September 2018<br/>
 Notification of acceptance: 1 October 2018<br/>
 Camera-ready deadline: 15 October 2018<br/>
-
