@@ -3,7 +3,7 @@ layout: single
 permalink: /conf
 ---
 **Future Conferences**
-- AVSS 2020 - <a href="/docs/Call_for_Proposals_AVSS2020.pdf">Call for proposals</a>
+- AVSS 2020 - <a href="/assets/Call_for_Proposals_AVSS2020.pdf">Call for proposals</a>
 - AVSS 2019 - Taipei, Taiwan
 
 **Past Conferences**
