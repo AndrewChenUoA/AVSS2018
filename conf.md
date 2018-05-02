@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /past
+permalink: /conf
 ---
 **Future Conferences**
 - AVSS 2020 - <a href="/docs/Call_for_Proposals_AVSS2020">Call for proposals</a>
