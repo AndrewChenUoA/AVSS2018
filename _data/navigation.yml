@@ -48,8 +48,8 @@ side:
         url: /committees
       - title: "Sponsorship"
         url: /sponsorship
-      - title: "Past Conferences"
-        url: /past
+      - title: "AVSS Conferences"
+        url: /conf
         
   - title: Authors
     url: /submission

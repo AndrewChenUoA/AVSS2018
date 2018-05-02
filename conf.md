@@ -2,6 +2,10 @@
 layout: single
 permalink: /past
 ---
+**Future Conferences**
+- AVSS 2020 - <a href="/docs/Call_for_Proposals_AVSS2020">Call for proposals</a>
+- AVSS 2019 - Taipei, Taiwan
+
 **Past Conferences**
 - [AVSS 2017](http://www.avss2017.org/) - Lecce, Italy
 - [AVSS 2016](http://avss16.uccs.us/) - Colorado Springs, United States
