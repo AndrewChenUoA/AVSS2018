@@ -38,6 +38,8 @@ Scope and topics of interest include, but are not limited to:
 - Video analytics for patient behavior analysis
 
 Workshop III: **Multi-source Surveillance for Public Safety and Healthcare**
+- Dr. Mukesh Saini, Indian Institute of Technology Ropar, <a href="mukesh@iitrpr.ac.in">mukesh@iitrpr.ac.in</a>
+- Dr. Dwarikanath Mahapatra, IBM Research Australia, <a href="dwarim@au1.ibm.com">dwarim@au1.ibm.com</a>
 
 With rapid growth in sensing and communication technology, we have various new sources of information that can complement video to achieve robust and reliable surveillance, e.g. heat detector, smoke detector, infrared/thermal sensor, motion sensor, metal detectors, GPS, weather sensors, and various other sensors found on current smartphones. Additionally, online social networks and real-time news portals provide valuable information about individuals and surrounding environment. We can assimilate all these data from different sources to make accurate and reliable situation assessment using artificial intelligence (AI) and Deep learning (DL) methods. This workshop aims to bring together researchers that are specifically working on applying advanced learning techniques to exploit multi-source information for public safety and healthcare. The workshop aims to build a common platform for synergizing research efforts and develop innovative methods population health and safety. We solicit original and unpublished research papers that analyse multiple source for safety and healthcare applications. Topics for the workshop include, but are not limited to:
 - Multi-source data analysis for security threat and crime detection
@@ -50,6 +52,22 @@ With rapid growth in sensing and communication technology, we have various new s
 - Multi-source data analysis for remote or tele-health management
 
 Researchers working on multimodal analysis of single source (such as image, audio, text) for public safety and healthcare are also encouraged to submit their original work. After the workshop, we intend to submit a special issue proposal in a reputable journal for extended papers of the workshop on the same topic.
+
+Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**Security of Video Surveillance Systems (SVSS 2018)**</a>
+- Prof. Yuval Elovici, Ben-Gurion University of the Negev, <a href="elovici@bgu.ac.il">elovici@bgu.ac.il</a>
+- Dr. Asaf Shabtai, Ben-Gurion University of the Negev, <a href="shabtaia@bgu.ac.il">shabtaia@bgu.ac.il</a>
+- Mr. Oleg Brodt, Ben-Gurion University, <a href="bloegb@bgu.ac.il">bolegb@bgu.ac.il</a>
+
+Video surveillance systems have become an important part of our lives, introducing new capabilities to improve civilian protection, reduce crime, increase the security of military and critical infrastructures, etc. As the trend of the Internet of Things (IoT) has evolved, video and signaling surveillance systems have begun to integrate new, advanced, and intelligent functionalities, such as real-time video stream analysis and detection using advanced machine learning techniques, streaming data to servers deployed in the cloud to provide access to the content by multiple devices from any location, and more. However, the integration of new functionalities into these systems exposes them to new risks that need to be considered and mitigated. For example, we cannot assume that the transmitted and visualized video is protected and reflects the true state of the monitored environment/objects, since an attacker can monitor and manipulate the data streams of such systems in real-time (e.g. reply attack) from a remote location. 
+Some of the security problems resulting from the intersection of the digital and physical realms, introduce cyber security challenges which are unique to video and signaling surveillance systems and may cost human lives. It is therefore critical to address the emerging cyber security related problems, which can affect (compromise) various components of such surveillance systems. This workshop aims to bring together the latest cyber security research pertaining to all aspects of video surveillance systems. We are soliciting contributions on (but not limited to) the following topics:
+- Secured architecture for video surveillance systems
+- Intrusion detection in video surveillance systems
+- Inferring information from encrypted video streams
+- Cyber attacks on video surveillance systems
+- Cyber attacks from video surveillance systems
+- Adversarial AI aimed at video streams and surveillance systems
+- Surveillance system honeypots
+- Security measures for surveillance systems
 
 **Deadlines**<br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
