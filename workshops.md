@@ -5,8 +5,6 @@ permalink: /workshops
 **Workshops**
 
 Workshop I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">**Workshop on Smart Image Sensor Systems**</a>
-
-Organizers:
 - Prof. Marilyn Wolf, Georgia Institute of Technology, <a href="mailto:wolf@ece.gatech.edu">wolf@ece.gatech.edu</a>
 - Prof. Ricardo Carmona Galan, IMSE-CNM, <a href="mailto:rcarmona@imse-cnm.csic.es">rcarmona@imse-cnm.csic.es</a>
 
@@ -22,9 +20,9 @@ Potential topics include:
 - Distributed networks of smart sensors.
 - Tutorials on smart image sensors.
 
-Workshop II: **Human Behavior Analysis based on Video Analytics and Deep Learning**
+<hr/>
 
-Organizers:
+Workshop II: **Human Behavior Analysis based on Video Analytics and Deep Learning**
 - Dr. Maheshkumar H Kolekar, Inidian Institute of Technology Patna, <a href="mahesh@iitp.ac.in">mahesh@iitp.ac.in</a>
 - Dr. R. Balasubramanian, Indian Institute of Technology Roorkee, <a href="balarfma@iitr.ac.in">balarfma@iitr.ac.in</a>
 
@@ -36,6 +34,8 @@ Scope and topics of interest include, but are not limited to:
 - Crowd behavior analysis
 - Deep learning techniques application in human activity recognition
 - Video analytics for patient behavior analysis
+
+<hr/>
 
 Workshop III: **Multi-source Surveillance for Public Safety and Healthcare**
 - Dr. Mukesh Saini, Indian Institute of Technology Ropar, <a href="mukesh@iitrpr.ac.in">mukesh@iitrpr.ac.in</a>
@@ -53,6 +53,8 @@ With rapid growth in sensing and communication technology, we have various new s
 
 Researchers working on multimodal analysis of single source (such as image, audio, text) for public safety and healthcare are also encouraged to submit their original work. After the workshop, we intend to submit a special issue proposal in a reputable journal for extended papers of the workshop on the same topic.
 
+<hr/>
+
 Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**Security of Video Surveillance Systems (SVSS 2018)**</a>
 - Prof. Yuval Elovici, Ben-Gurion University of the Negev, <a href="elovici@bgu.ac.il">elovici@bgu.ac.il</a>
 - Dr. Asaf Shabtai, Ben-Gurion University of the Negev, <a href="shabtaia@bgu.ac.il">shabtaia@bgu.ac.il</a>
@@ -68,6 +70,8 @@ Some of the security problems resulting from the intersection of the digital and
 - Adversarial AI aimed at video streams and surveillance systems
 - Surveillance system honeypots
 - Security measures for surveillance systems
+
+<hr/>
 
 **Deadlines**<br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
