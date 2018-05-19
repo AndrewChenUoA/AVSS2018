@@ -4,9 +4,15 @@ permalink: /challenges
 ---
 **Challenges**
 
-Challenge I: **Challenge on Advanced Traffic Monitoring**
+Challenge I: **<a href="/assets/IW4TS_Challenge_2018.pdf">Challenge on Advanced Traffic Monitoring</a>**
 
-More details to be provided soon!
+The increasing progress of transportation systems has caused a tremendous increase in demand for smart systems capable of monitoring traffic states and street safety. Fundamental to these applications are algorithms for multi-object detection and multi-object tracking. It is thus important for practitioners to know the pros and cons of different works in these categories. It is goal of this Challenge to provide a comprehensive performance evaluation of state-of-the-art detection and tracking algorithms.
+
+The challenge is based on UA-DETRAC, a real-world multi-object detection and multi-object tracking benchmark. The dataset is based on a huge set of traffic video sequences opportunely annotated with bounding boxes, tracking paths, and difficult/environment difficulty levels. We divided the challenge in two different task (detection and tracking), and two different degrees of difficulty.
+
+The challenge has been organized in conjunction with the International Workshop on Traffic and Street Surveillance for Safety and Security (IWT4S), currently proposed in AVSS 2018, in order to guarantee the publication of papers associated with the solutions proposed for the challenge.
+
+Further Details: <a href="/assets/IW4TS_Challenge_2018.pdf">PDF</a>
 
 Organisers:<br/>
 - Marco Del Coco (Institute of Applied Sciences and Intelligent Systems, CNR, Italy)

@@ -73,7 +73,33 @@ Some of the security problems resulting from the intersection of the digital and
 
 <hr/>
 
+Workshop V: **<a href="/assets/IWT4S_Workshop_2018.pdf">Traffic and Street Surveillance for Safety and Security (T4S)**
+- Marco Del Coco, Institute of Applied Sciences and Intelligent Systems (CNR, Italy), <a href="mailto:m.delcoco@isasi.cnr.it">m.delcoco@isasi.cnr.it</a>
+- Siwei Lyu, University at Albany, <a href="mailto:slyu@albany.edu">slyu@albany.edu</a>
+- Pierluigi Calcagnì, Institute of Applied Sciences and Intelligent Systems (CNR, Italy), <a href="mailto:p.carcagni@isasi.cnr.it">p.carcagni@isasi.cnr.it</a>
+- Ming-Ching Chang, University At Albany, <a href="mailto:mchang2@albany.edu">mchang2@albany.edu</a>
+
+In the last couple of decades, there has been a tremendous increase in demand for smart systems capable of monitoring street security and traffic states. Big city centers are subjected to a growing amount of people and vehicle mobility, making control and security management increasingly difficult. The contribution of automatic systems capable to centralize street control and automatically detect possible problems (accidents, traffic jam, brawls, etc.) in order to elicit and support the intervention of law enforcement agencies or medical staff is needed.
+The proposed workshop is organized jointly with the <a href="/challenges">Challenge on Advanced Traffic Monitoring</a>, and it is addressed to researchers interested in contributing on the general topic of security on mobility and street applications. Research papers are solicited in, but not limited to, the follow areas and topics:
+- Vehicle detection and tracking
+- Vehicle type classification
+- Pedestrian detection and tracking
+- Vehicle/pedestrian behaviour
+- Traffic jam detection
+- Car/pedestrian accidents
+- Activity monitoring systems
+- Scene understanding
+- Visual attention and visual saliency
+- Matching vehicles across cameras
+- Smart environments
+- Safety and security
+- Technology for cognition
+- Navigation systems
+- Sensory substitution
+- Datasets and evaluation procedures
+
 **Deadlines**<br/>
+<b>Please note that the Workshop V (T4S) has different deadlines - please see their PDF for details.</b><br/><br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
 Submission: 7 September 2018<br/>
 Notification of acceptance: 1 October 2018<br/>
