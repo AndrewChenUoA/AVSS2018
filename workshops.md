@@ -73,7 +73,7 @@ Some of the security problems resulting from the intersection of the digital and
 
 <hr/>
 
-Workshop V: **<a href="/assets/IWT4S_Workshop_2018.pdf">Traffic and Street Surveillance for Safety and Security (T4S)</a>**
+Workshop V: **Traffic and Street Surveillance for Safety and Security (T4S)**
 - Marco Del Coco, Institute of Applied Sciences and Intelligent Systems (CNR, Italy), <a href="mailto:m.delcoco@isasi.cnr.it">m.delcoco@isasi.cnr.it</a>
 - Siwei Lyu, University at Albany, <a href="mailto:slyu@albany.edu">slyu@albany.edu</a>
 - Pierluigi Calcagnì, Institute of Applied Sciences and Intelligent Systems (CNR, Italy), <a href="mailto:p.carcagni@isasi.cnr.it">p.carcagni@isasi.cnr.it</a>
@@ -99,7 +99,6 @@ The proposed workshop is organized jointly with the <a href="/challenges">Challe
 - Datasets and evaluation procedures
 
 **Deadlines**<br/>
-Please note that the Workshop V (T4S) has different deadlines - please see their PDF for details.</br>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
 Submission: 7 September 2018<br/>
 Notification of acceptance: 1 October 2018<br/>
