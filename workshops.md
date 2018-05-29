@@ -10,15 +10,17 @@ Workshop I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-imag
 
 Smart image sensor systems that integrate sensing, computation, and memory are the next generation of smart cameras. Traditional smart cameras combine traditional sensors and embedded computing systems-on-chips to perform in-camera analysis. Smart sensor systems may combine analog and digital computation with the sensor, resulting in significantly lower latency computations as well as smaller SWaP (size, weight, and power). The novel architectures presented by smart image sensors call for a new round of algorithm/architecture co-design to leverage the capabilities of these systems.
 Potential topics include:
-- Analog and mixed-signal on-sensor computation.
-- Digital on-sensor computation.
-- 3D VLSI architectures for smart sensors.
-- Computer vision applications (tracking, target identification, etc.) adapted to a chosen smart sensor platform.
-- Algorithm-architecture co-design for smart sensor systems.
-- Simulation studies of smart sensor systems.
-- Applications and use cases for smart sensor systems.
-- Distributed networks of smart sensors.
-- Tutorials on smart image sensors.
+- Analog and mixed-signal on-sensor computation
+- Digital on-sensor computation
+- 3D VLSI architectures for smart sensors
+- Computer vision applications (tracking, target identification, etc.) adapted to a chosen smart sensor platform
+- Algorithm-architecture co-design for smart sensor systems
+- Simulation studies of smart sensor systems
+- Applications and use cases for smart sensor systems
+- Distributed networks of smart sensors
+- Tutorials on smart image sensors
+
+For more information, see the <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">website here</a>.
 
 <hr/>
 
@@ -37,7 +39,7 @@ Scope and topics of interest include, but are not limited to:
 
 <hr/>
 
-Workshop III: **Multi-source Surveillance for Public Safety and Healthcare**
+Workshop III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">**Multi-source Surveillance for Public Safety and Healthcare**</a>
 - Dr. Mukesh Saini, Indian Institute of Technology Ropar, <a href="mailto:mukesh@iitrpr.ac.in">mukesh@iitrpr.ac.in</a>
 - Dr. Dwarikanath Mahapatra, IBM Research Australia, <a href="mailto:dwarim@au1.ibm.com">dwarim@au1.ibm.com</a>
 
@@ -53,6 +55,7 @@ With rapid growth in sensing and communication technology, we have various new s
 
 Researchers working on multimodal analysis of single source (such as image, audio, text) for public safety and healthcare are also encouraged to submit their original work. After the workshop, we intend to submit a special issue proposal in a reputable journal for extended papers of the workshop on the same topic.
 
+For more information, see the <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">website here</a>.
 <hr/>
 
 Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**Security of Video Surveillance Systems (SVSS 2018)**</a>
@@ -70,6 +73,8 @@ Some of the security problems resulting from the intersection of the digital and
 - Adversarial AI aimed at video streams and surveillance systems
 - Surveillance system honeypots
 - Security measures for surveillance systems
+
+For more information, see the <a href="https://cyber.bgu.ac.il/svss2018/">website here</a>.
 
 <hr/>
 
