@@ -105,7 +105,7 @@ The proposed workshop is organized jointly with the <a href="/challenges">Challe
 
 <hr/>
 
-Workshop VI: **<a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IJDCF)</a>**
+Workshop VI: **<a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a>**
 - Feng Liu, Chinese Academy of Sciences, China, <a href="mailto:liufeng@iie.ac.cn">liufeng@iie.ac.cn</a>
 - Fei Peng, Hunan University, China <a href="mailto:pengfei@hnu.edu.cn">pengfei@hnu.edu.cn</a>
 
