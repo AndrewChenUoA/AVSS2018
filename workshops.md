@@ -39,7 +39,7 @@ Scope and topics of interest include, but are not limited to:
 
 <hr/>
 
-Workshop III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">**Multi-source Surveillance for Public Safety and Healthcare**</a>
+Workshop III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">**International Workshop on Multi-source Surveillance for Public Safety and Healthcare**</a>
 - Dr. Mukesh Saini, Indian Institute of Technology Ropar, <a href="mailto:mukesh@iitrpr.ac.in">mukesh@iitrpr.ac.in</a>
 - Dr. Dwarikanath Mahapatra, IBM Research Australia, <a href="mailto:dwarim@au1.ibm.com">dwarim@au1.ibm.com</a>
 
@@ -58,7 +58,7 @@ Researchers working on multimodal analysis of single source (such as image, audi
 For more information, see the <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">website here</a>.
 <hr/>
 
-Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**Security of Video Surveillance Systems (SVSS 2018)**</a>
+Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**International Workshop on the Security of Video Surveillance Systems (SVSS 2018)**</a>
 - Prof. Yuval Elovici, Ben-Gurion University of the Negev, <a href="mailto:elovici@bgu.ac.il">elovici@bgu.ac.il</a>
 - Dr. Asaf Shabtai, Ben-Gurion University of the Negev, <a href="mailto:shabtaia@bgu.ac.il">shabtaia@bgu.ac.il</a>
 - Mr. Oleg Brodt, Ben-Gurion University, <a href="mailto:bloegb@bgu.ac.il">bolegb@bgu.ac.il</a>
@@ -102,6 +102,43 @@ The proposed workshop is organized jointly with the <a href="/challenges">Challe
 - Navigation systems
 - Sensory substitution
 - Datasets and evaluation procedures
+
+<hr/>
+
+Workshop VI: **<a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IJDCF)</a>**
+- Feng Liu, Chinese Academy of Sciences, China, <a href="mailto:liufeng@iie.ac.cn">liufeng@iie.ac.cn</a>
+- Fei Peng, Hunan University, China <a href="mailto:pengfei@hnu.edu.cn">pengfei@hnu.edu.cn</a>
+
+Digital forensics have gradually become a very active research area in the field of information security in the last two decades. In recent years, more and more subfields in digital forensics such as the network forensics, content forensics, source tracing, etc, were greatly developed. However, while the advance of digital technologies boosts the development of forensic techniques, it also helps criminals and law violators. Particularly, anti-forensic technologies are also widely studied nowadays. Therefore, a series of problems still exist in various areas including the mathematical modeling, computational intelligence, accuracy improvement, new method development, and performance evaluations, etc. The focus of this workshop is on calling up the research groups to remove the obstacles. The topics of this workshop cover but not limited to:
+- Computational approaches to digital crime preventions
+- Crime scene imaging
+- Cryptologic techniques and tools for crime investigation
+- Data carving and recovery
+- Digital evidence
+- Digital techniques for crime investigations
+- Identity theft and biometrics
+- Information warfare
+- Machine learning, data mining, and information retrieval for crime prevention and forensics
+- Policy, standards, protocols, accreditation, certification, and ethical issues related to digital crime and forensics
+- Malicious codes detection Network intrusion detection
+- Network attack investigation and forensics
+- Network attack source tracing
+- Small digital device forensics (cell phones, smartphone, PDAs, audio/video devices, cameras, flash drives, gaming devices, GPS devices, etc.)
+- Multimedia content forensics
+- Techniques for content tempering
+- Anti-forensic technology
+- Steganography and steganalysis
+- Network covert communication and detection
+- Analytical methodologies against terrorism
+- Watermarking for digital forensics
+- Digital rights Management
+- Intelligent surveillance
+- Post-quantum cryptography
+- Cryptonets
+
+For more information, see the <a href="http://iwdcf.net/">website here</a>.
+
+<hr/>
 
 **Deadlines**<br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
