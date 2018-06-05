@@ -79,10 +79,10 @@ For more information, see the <a href="https://cyber.bgu.ac.il/svss2018/">websit
 <hr/>
 
 Workshop V: **Traffic and Street Surveillance for Safety and Security (T4S)**
-- Marco Del Coco, Institute of Applied Sciences and Intelligent Systems (CNR, Italy), <a href="mailto:m.delcoco@isasi.cnr.it">m.delcoco@isasi.cnr.it</a>
+- Marco Del Coco, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:m.delcoco@isasi.cnr.it">m.delcoco@isasi.cnr.it</a>)
 - Siwei Lyu, University at Albany<br/>(<a href="mailto:slyu@albany.edu">slyu@albany.edu</a>)
 - Pierluigi Calcagnì, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:p.carcagni@isasi.cnr.it">p.carcagni@isasi.cnr.it</a>)
-- Ming-Ching Chang, University At Albany<br/>(<a href="mailto:mchang2@albany.edu">mchang2@albany.edu</a>)
+- Ming-Ching Chang, University at Albany<br/>(<a href="mailto:mchang2@albany.edu">mchang2@albany.edu</a>)
 
 In the last couple of decades, there has been a tremendous increase in demand for smart systems capable of monitoring street security and traffic states. Big city centers are subjected to a growing amount of people and vehicle mobility, making control and security management increasingly difficult. The contribution of automatic systems capable to centralize street control and automatically detect possible problems (accidents, traffic jam, brawls, etc.) in order to elicit and support the intervention of law enforcement agencies or medical staff is needed.
 The proposed workshop is organized jointly with the <a href="/challenges">Challenge on Advanced Traffic Monitoring</a>, and it is addressed to researchers interested in contributing on the general topic of security on mobility and street applications. Research papers are solicited in, but not limited to, the follow areas and topics:
@@ -106,8 +106,8 @@ The proposed workshop is organized jointly with the <a href="/challenges">Challe
 <hr/>
 
 Workshop VI: **<a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a>**
-- Feng Liu, Chinese Academy of Sciences, China<br/>(<a href="mailto:liufeng@iie.ac.cn">liufeng@iie.ac.cn</a>)
-- Fei Peng, Hunan University, China<br/>(<a href="mailto:pengfei@hnu.edu.cn">pengfei@hnu.edu.cn</a>)
+- Feng Liu, Chinese Academy of Sciences<br/>(<a href="mailto:liufeng@iie.ac.cn">liufeng@iie.ac.cn</a>)
+- Fei Peng, Hunan University<br/>(<a href="mailto:pengfei@hnu.edu.cn">pengfei@hnu.edu.cn</a>)
 
 Digital forensics have gradually become a very active research area in the field of information security in the last two decades. In recent years, more and more subfields in digital forensics such as the network forensics, content forensics, source tracing, etc, were greatly developed. However, while the advance of digital technologies boosts the development of forensic techniques, it also helps criminals and law violators. Particularly, anti-forensic technologies are also widely studied nowadays. Therefore, a series of problems still exist in various areas including the mathematical modeling, computational intelligence, accuracy improvement, new method development, and performance evaluations, etc. The focus of this workshop is on calling up the research groups to remove the obstacles. The topics of this workshop cover but not limited to:
 - Computational approaches to digital crime preventions
