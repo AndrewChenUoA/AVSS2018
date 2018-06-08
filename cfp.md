@@ -31,7 +31,7 @@ Original contributions in any of the above (or related) areas are being solicite
 **Paper submission is <a href="submission">now open</a>!**
 
 **Important Dates**<br/>
-- Preliminary Abstract Submission: 1 June 2018
+- Preliminary Abstract Submission: 1 June 2018 [Not Compulsory]
 - Submission of Full Papers: 15 June 2018 (23:59:59 PST)
 - Notification of Acceptance: 1 September 2018
 - Submission of Camera Ready Papers: 15 September 2018
