@@ -78,7 +78,7 @@ For more information, see the <a href="https://cyber.bgu.ac.il/svss2018/">websit
 
 <hr/>
 
-Workshop V: **Traffic and Street Surveillance for Safety and Security (T4S)**
+Workshop V: <a href="https://iwt4s2018.wordpress.com">**Traffic and Street Surveillance for Safety and Security (T4S)**</a>
 - Marco Del Coco, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:m.delcoco@isasi.cnr.it">m.delcoco@isasi.cnr.it</a>)
 - Siwei Lyu, University at Albany<br/>(<a href="mailto:slyu@albany.edu">slyu@albany.edu</a>)
 - Pierluigi Calcagnì, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:p.carcagni@isasi.cnr.it">p.carcagni@isasi.cnr.it</a>)
@@ -102,6 +102,8 @@ The proposed workshop is organized jointly with the <a href="/challenges">Challe
 - Navigation systems
 - Sensory substitution
 - Datasets and evaluation procedures
+
+For more information, see the <a href="https://iwt4s2018.wordpress.com">website here</a>.
 
 <hr/>
 
