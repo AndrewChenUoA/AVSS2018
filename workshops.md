@@ -4,6 +4,12 @@ permalink: /workshops
 ---
 **Workshops**
 
+**Deadlines**<br/>
+Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
+Submission: 7 September 2018<br/>
+Notification of acceptance: 1 October 2018<br/>
+Camera-ready deadline: 15 October 2018<br/>
+
 Workshop I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">**Workshop on Smart Image Sensor Systems**</a>
 - Marilyn Wolf, Georgia Institute of Technology<br/>(<a href="mailto:wolf@ece.gatech.edu">wolf@ece.gatech.edu</a>)
 - Ricardo Carmona Galan, IMSE-CNM<br/>(<a href="mailto:rcarmona@imse-cnm.csic.es">rcarmona@imse-cnm.csic.es</a>)
