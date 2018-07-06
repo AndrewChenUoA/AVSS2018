@@ -13,7 +13,7 @@ Professor Fang is mainly engaged in research and development of computer network
 University of California-Irvine, USA<br/>
 <img src="/assets/images/ramesh_jain.jpg" style="float:left;padding-right:25px;padding-top:7px;max-width:200px" alt="Professor Ramesh Jain"/> Professor Ramesh Jain is a Donald Bren Professor in Information & Computer Sciences at the University of California, Irvine (UCI). His current research passion is in addressing health issues using cybernetic principles, building on the progress in sensors, mobile, processing, and storage technologies.  He is the founding director of the Institute for Future Health at UCI. Earlier he served at Georgia Tech, the University of California at San Diego, the University of Michigan, Ann Arbor, Wayne State University, and the Indian Institute of Technology, Kharagpur, India.  He is a Fellow of AAAS, ACM, IEEE, AAAI, IAPR, and SPIE.<br/><br/>
 Professor Ramesh Jain co-founded several companies, managed them in their initial stages, and then turned them over to professional management.  He enjoys new challenges and likes to use technology to solve them.  He is participating in addressing the biggest challenge for us all: how to live long in good health.<br/><br/>
-Professor Jain's talk is titled "A Navigational Approach to Health". An abstract and a list of references are <a href="/keynote_jain">available here</a>.
+Professor Jain's talk is titled "A Navigational Approach to Health". An abstract is <a href="/keynote_jain">available here</a>.
 
 **Professor Fatih Porikli**<br/>
 Australian National University, Australia<br/>

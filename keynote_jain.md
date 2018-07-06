@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /keynote_kasabov
+permalink: /keynote_jain
 ---
 **Professor Ramesh Jain**<br/>
 University of California-Irvine, USA<br/>
