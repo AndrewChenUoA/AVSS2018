@@ -2,7 +2,7 @@
 layout: single
 permalink: /reviewers
 ---
-**Paper Reviewers**
+**Technical Program Committee**
 - Noor Al-ani, Auckland University of Technology, New Zealand
 - Mahmoud Al-sarayreh, Auckland University of Technology, NZ
 - Rizwan Asghar, University of Auckland, New Zealand
