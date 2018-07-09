@@ -4,7 +4,7 @@ permalink: /reviewers
 ---
 **Reviewers**
 - Noor Al-ani, Auckland University of Technology, New Zealand
-- Mahmoud Al-sarayreh, Auckland University of Technology, New Zealand
+- Mahmoud Al-sarayreh, Auckland University of Technology, NZ
 - Rizwan Asghar, University of Auckland, New Zealand
 - Pradeep Atrey, SUNY at Albany, USA
 - Francois Bremond, Inria Sophia Antipolis, France
