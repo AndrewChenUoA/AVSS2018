@@ -9,6 +9,15 @@ Workshop papers are 6 pages long (including references), with up to two more pag
 Submission: 7 September 2018<br/>
 Notification of acceptance: 1 October 2018<br/>
 Camera-ready deadline: 15 October 2018<br/>
+<hr/>
+
+Workshop I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">**Workshop on Smart Image Sensor Systems**</a><br/>
+Workshop II: **Human Behavior Analysis based on Video Analytics and Deep Learning**<br/>
+Workshop III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">**International Workshop on Multi-source Surveillance for Public Safety and Healthcare**</a><br/>
+Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**International Workshop on the Security of Video Surveillance Systems (SVSS 2018)**</a><br/>
+Workshop V: <a href="https://iwt4s2018.wordpress.com">**Traffic and Street Surveillance for Safety and Security (T4S)**</a><br/>
+Workshop VI: **<a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a>**<br/>
+<hr/>
 
 Workshop I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">**Workshop on Smart Image Sensor Systems**</a>
 - Marilyn Wolf, Georgia Institute of Technology<br/>(<a href="mailto:wolf@ece.gatech.edu">wolf@ece.gatech.edu</a>)

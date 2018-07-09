@@ -32,7 +32,7 @@ side:
         url: /registration
       - title: "Venue"
         url: /venue
-      - title: "Travel and  Accommodation"
+      - title: "Travel"
         url: /travel
       - title: "Committees"
         url: /committees
@@ -40,7 +40,7 @@ side:
         url: /reviewers
       - title: "Sponsorship"
         url: /sponsorship
-      - title: "AVSS Conferences"
+      - title: "Past AVSS"
         url: /conf
         
   - title: Authors
