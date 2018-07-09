@@ -13,10 +13,10 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 
 **Program at a Glance**
 - Each oral presentation should be 20 min (15 min talk, 5 min setup/questions)
-- 1 min spotlight presentation for each poster at beginning of the poster sessions
-- Authors of oral presentations have the chance to display their poster at the poster session after their oral presentation
-- Editorial board meetings will use the time of Day 2 afternoon tea
-- Conference handover during the Conference Dinner on Day 2
+- 1 min spotlight presentation will be given for each poster at the beginning of the poster sessions
+- Authors of oral presentations have the chance to display a poster after their presentations
+- Editorial board meetings will be held during Day 2 afternoon tea
+- Conference handover will be during the Conference Dinner on Day 2
 
 |       Time       | Workshop Day<br/>(27 Nov 2018)<br/>(8 Rooms) |   Conference Day 1<br/>(28 Nov 2018)<br/>(1 Room)  |   Conference Day 2<br/>(29 Nov 2018)<br/>(1 Room)  |   Conference Day 3<br/>(30 Nov 2018)<br/>(1 Room)  |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
