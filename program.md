@@ -18,14 +18,14 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Editorial board meetings will be held during Day 2 afternoon tea
 - Conference handover will be during the Conference Dinner on Day 2
 
-|       Time       | Workshop Day<br/>(27 Nov 2018)<br/>(8 Rooms) |   Conference Day 1<br/>(28 Nov 2018)<br/>(1 Room)  |   Conference Day 2<br/>(29 Nov 2018)<br/>(1 Room)  |   Conference Day 3<br/>(30 Nov 2018)<br/>(1 Room)  |
+|       Time       | Workshops<br/>(27 Nov 2018)                  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | 08.30 - 09.00am  | **Registration**                             | **Registration** Opening at 8.50                   | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Workshops<br/>(Session 1)                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
-| 10.00 - 10.30am  | Workshops<br/>(Session 1)                    | Poster 1<br/>1min presentation                     | Poster 3<br/>1min presentation                     | Poster 5<br/>1min presentation                     |
+| 10.00 - 10.30am  | Workshops<br/>(Session 1)                    | Poster 1                                           | Poster 3                                           | Poster 5                                           |
 | 10.30 - 11.00am  | **Morning Tea**                              | **Morning Tea**                                    | **Morning Tea**                                    | **Morning Tea**                                    |
 | 11.00 - 12.00pm  | Workshops<br/>(Session 2)                    | Oral Session 1                                     | Oral Session 3                                     | Oral Session 5                                     |
-| 12.00 - 12.30pm  | Workshops<br/>(Session 2)                    | Poster 2<br/>1min presentation                     | Poster 4<br/>1min presentation                     | Poster 6<br/>1min presentation                     |
+| 12.00 - 12.30pm  | Workshops<br/>(Session 2)                    | Poster 2                                           | Poster 4                                           | Poster 6                                           |
 | 12.30 - 13.30pm  | **Lunch**                                    | **Lunch**                                          | **Lunch**                                          | **Lunch**                                          |
 | 13.30 - 15.00pm  | Workshops<br/>(Session 3)                    | Keynote 2                                          | Oral Session 4                                     | Oral Session 6                                     |
 | 15.00 - 15.30pm  | **Afternoon Tea**                            | **Afternoon Tea**                                  | **Afternoon Tea**                                  | **Afternoon Tea**                                  |
