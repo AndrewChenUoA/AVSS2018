@@ -36,6 +36,8 @@ side:
         url: /travel
       - title: "Committees"
         url: /committees
+      - title: "Reviewers"
+        url: /reviewers
       - title: "Sponsorship"
         url: /sponsorship
       - title: "AVSS Conferences"
