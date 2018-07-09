@@ -87,3 +87,5 @@ Faith Kurugollu (University of Derby, UK)
 - Andrew Chen (University of Auckland, New Zealand) (Website)
 - Zahra Moayed (Auckland University of Technology, New Zealand) (Enquiries)
 - Minh Nguyen (Auckland University of Technology, New Zealand) (Chair)
+
+A list of paper reviewers is <a href="/reviewers">available here</a>.

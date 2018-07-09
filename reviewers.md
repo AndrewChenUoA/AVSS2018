@@ -51,7 +51,7 @@ permalink: /reviewers
 - Lucio Marcenaro, University degli Studi di Genoa, Italy
 - Manoranjan Mohanty, University of Auckland, New Zealand
 - Zahra Moayed, Auckland University of Technology, New Zealand
-- Sandino Morales, Nanyang Technological University, Singapore
+- Sandino Morales, Mexico and United Kingdom
 - Saibal Mukhopadhyay, Georgia Institute of Technology, USA
 - Parma Nand, Auckland University of Technology, New Zealand
 - Minh Nguyen, Auckland University of Technology, New Zealand
