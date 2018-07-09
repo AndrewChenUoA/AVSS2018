@@ -30,7 +30,7 @@ permalink: /reviewers
 - Antonio Greco, University of Salerno, Italy
 - Qin Gu, UESTC, China
 - Bohyung Han, Seoul National University, Korea
-- Jean-Bernard,	Hayet CIMAT, MEXICO
+- Jean-Bernard Hayet, CIMAT, Mexico
 - Tiejun Huang, Peking University, China
 - Lipeng Ke, University of the Chinese Academy of Sciences, China
 - Waqar Khan, WelTec, New Zealand
@@ -39,7 +39,7 @@ permalink: /reviewers
 - Fatih Kurugollu, University of Derby, UK
 - Edmund Lai, Auckland University of Technology, New Zealand
 - Fabio Lanzi, University of Modena and Reggio Emilia, Italy
-- Trung-Nghia, Le SOKENDAI, JAPAN
+- Trung-Nghia Le, SOKENDAI, Japan
 - Wenbo Li, SUNY at Albany, USA 
 - Yuezun Li, SUNY at Albany, USA
 - Xufeng Lin, Charles Sturt University, Australia
@@ -48,7 +48,7 @@ permalink: /reviewers
 - Jia Lu, Auckland University of Technology, New Zealand
 - Ju Liu, Shandong University, China
 - Dwarikanath Mahapatra, IBM Research, Australia
-- Lucio Marcenaro, University degli Studi di Genoa, Italy
+- Lucio Marcenaro, Università degli studi di Genoa, Italy
 - Manoranjan Mohanty, University of Auckland, New Zealand
 - Zahra Moayed, Auckland University of Technology, New Zealand
 - Sandino Morales, Mexico and United Kingdom

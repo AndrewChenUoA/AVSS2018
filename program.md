@@ -18,11 +18,16 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Editorial board meetings will use the time of Day 2 afternoon tea
 - Conference handover during the Conference Dinner on Day 2
 
-|       Time       | Workshop Day (27 Nov 2018) (8 Rooms) |   Conference Day 1 (28 Nov 2018) (1 Room)  |   Conference Day 2 (29 Nov 2018) (1 Room)  |   Conference Day 3 (30 Nov 2018) (1 Room)   |
-|:----------------------:|:------------------------------------:|:------------------------------------------:|:------------------------------------------:|:-------------------------------------------:|
-| 08.30 - 09.00am  | Registration                         | Registration Opening at 8.50               | Registration                               | Registration                                |
-| 09.00 - 10.00am  |    Workshops (S1:6+2)                |    Keynote 1                               |    Keynote 3                               |    Keynote 4                                |
-| 10.00 - 10.30am  |    Workshops (S1:6+2)                |    Poster1 (1 Area)   1min presentation    |    Poster3 (1 Area)   1min presentation    |    Poster5 (1 Area)    1min presentation    |
-|                  |                                      |                                            |                                            |                                             |
-
-
+|       Time       | Workshop Day<br/>(27 Nov 2018)<br/>(8 Rooms) |   Conference Day 1<br/>(28 Nov 2018)<br/>(1 Room)  |   Conference Day 2<br/>(29 Nov 2018)<br/>(1 Room)  |   Conference Day 3<br/>(30 Nov 2018)<br/>(1 Room)  |
+|:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
+| 08.30 - 09.00am  | **Registration**                             | **Registration** Opening at 8.50                   | **Registration**                                   | **Registration**                                   |
+| 09.00 - 10.00am  | Workshops (S1:6+2)                           | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
+| 10.00 - 10.30am  | Workshops (S1:6+2)                           | Poster 1            1min presentation              | Poster             1min presentation               | Poster 5             1min presentation             |
+| 10.30 - 11.00am  | **Morning Tea**                              | **Morning Tea**                                    | **Morning Tea**                                    | **Morning Tea**                                    |
+| 11.00 - 12.00pm  | Workshops (S2:6+2)                           | Oral Session 1                                     | Oral Session 3                                     | Oral Session 5                                     |
+| 12.00 - 12.30pm  | Workshops (S2:6+2)                           | Poster 2            1min presentation              | Poster 4            1min presentation              | Poster 6            1min presentation              |
+| 12.30 - 13.30pm  | **Lunch**                                    | **Lunch**                                          | **Lunch**                                          | **Lunch**                                          |
+| 13.30 - 15.00pm  | Workshops (S3:6+2)                           | Keynote 2                                          | Oral Session 4                                     | Oral Session 6                                     |
+| 15.00 - 15.30pm  | **Afternoon Tea**                            | **Afternoon Tea**                                  | **Afternoon Tea**                                  | **Afternoon Tea**                                  |
+| 15.30 - 17.00pm  | Workshops (S4:6+2)                           | Oral Session 2                                     |                                                    | Oral Session 7                                     |
+| 18.30 - 21.00pm  | City Tour                                    | Welcome Reception                                  | <a href="https://avss2018.org/venue">Conference Dinner at Wintergarden Pavillion</a> | Farewell / Best Paper Awards |
