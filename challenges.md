@@ -4,7 +4,7 @@ permalink: /challenges
 ---
 **Challenges**
 
-Challenge I: **<a href="/assets/IWT4S_Challenge_2018.pdf">Challenge on Advanced Traffic Monitoring</a>**
+Challenge I: **<a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a>**
 
 The increasing progress of transportation systems has caused a tremendous increase in demand for smart systems capable of monitoring traffic states and street safety. Fundamental to these applications are algorithms for multi-object detection and multi-object tracking. It is thus important for practitioners to know the pros and cons of different works in these categories. It is goal of this Challenge to provide a comprehensive performance evaluation of state-of-the-art detection and tracking algorithms.
 
@@ -12,12 +12,12 @@ The challenge is based on UA-DETRAC, a real-world multi-object detection and mul
 
 The challenge has been organized in conjunction with the International Workshop on Traffic and Street Surveillance for Safety and Security (IWT4S), currently proposed in AVSS 2018, in order to guarantee the publication of papers associated with the solutions proposed for the challenge.
 
-Further Details: <a href="/assets/IWT4S_Challenge_2018.pdf">PDF</a>
+Further Details: <a href="https://iwt4s2018.wordpress.com/">https://iwt4s2018.wordpress.com/</a>
 
 Organisers:<br/>
 - Marco Del Coco (Institute of Applied Sciences and Intelligent Systems, CNR, Italy)
 - Siwei Lyu (University at Albany, USA)
-- Pierluigi Calcagni (Institute of Applied Sciences and Intelligent Systems, CNR, Italy)
+- Pierluigi Carcagni (Institute of Applied Sciences and Intelligent Systems, CNR, Italy)
 - Ming-Ching Chang (University at Albany, USA)
 
 Challenge II: **<a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a>**

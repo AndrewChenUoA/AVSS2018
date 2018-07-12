@@ -96,7 +96,7 @@ For more information, see the <a href="https://cyber.bgu.ac.il/svss2018/">websit
 Workshop V: <a href="https://iwt4s2018.wordpress.com">**Traffic and Street Surveillance for Safety and Security (T4S)**</a>
 - Marco Del Coco, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:m.delcoco@isasi.cnr.it">m.delcoco@isasi.cnr.it</a>)
 - Siwei Lyu, University at Albany<br/>(<a href="mailto:slyu@albany.edu">slyu@albany.edu</a>)
-- Pierluigi Calcagnì, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:p.carcagni@isasi.cnr.it">p.carcagni@isasi.cnr.it</a>)
+- Pierluigi Carcagnì, Institute of Applied Sciences and Intelligent Systems (CNR, Italy)<br/>(<a href="mailto:p.carcagni@isasi.cnr.it">p.carcagni@isasi.cnr.it</a>)
 - Ming-Ching Chang, University at Albany<br/>(<a href="mailto:mchang2@albany.edu">mchang2@albany.edu</a>)
 
 In the last couple of decades, there has been a tremendous increase in demand for smart systems capable of monitoring street security and traffic states. Big city centers are subjected to a growing amount of people and vehicle mobility, making control and security management increasingly difficult. The contribution of automatic systems capable to centralize street control and automatically detect possible problems (accidents, traffic jam, brawls, etc.) in order to elicit and support the intervention of law enforcement agencies or medical staff is needed.
