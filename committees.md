@@ -52,8 +52,9 @@ Faith Kurugollu (University of Derby, UK)
 - Chang-Tsun Li (Charles Sturt University, Australia)
 - Chao Shen (Xi’an Jiaotong University, China)
 
-**Poster Chair:**
+**Poster Chairs:**
 - Parma Nand (Auckland University of Technology, New Zealand)
+- Johnny Chien (Auckland Transport, New Zealand)
 
 **Publicity Chairs:**
 - Alvis Fong (Western Michigan University, USA)
