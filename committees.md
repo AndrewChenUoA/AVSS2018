@@ -55,6 +55,7 @@ Faith Kurugollu (University of Derby, UK)
 **Poster Chairs:**
 - Parma Nand (Auckland University of Technology, New Zealand)
 - Johnny Chien (Auckland Transport, New Zealand)
+- Laiyun Qing (University of Chinese Academy of Sciences, China)
 
 **Publicity Chairs:**
 - Alvis Fong (Western Michigan University, USA)
