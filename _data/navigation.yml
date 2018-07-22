@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Call for Papers"
-    url: /cfp
   - title: "Conference Registration"
     url: /registration
   
