@@ -8,7 +8,6 @@ permalink: /registration
 
 <b>Important Dates:</b>
 - Early-bird Registration Deadline: 1 September 2018
-- Regular Registration Deadline: 15 September 2018
+- Standard Registration Deadline: 15 September 2018
 - Late Registration Deadline: 26 November 2018
-- Onsite Registration Deadline: 30 November 2018
 - Conference Dates: 27-30 November 2018
