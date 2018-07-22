@@ -33,10 +33,6 @@ Original contributions in any of the above (or related) areas are being solicite
 **Important Dates**<br/>
 - <s>Preliminary Abstract Submission: 1 June 2018 [Not Compulsory]</s>
 - <s>Submission of Full Papers: <s>15 June 2018</s> 30 June 2018 (23:59:59 PST)</s>
-- Early-bird Registration Deadline: 1 September 2018
 - Notification of Acceptance: 1 September 2018
-- Regular Registration Deadline: 15 September 2018
 - Submission of Camera Ready Papers: 15 September 2018
-- Late Registration Deadline: 26 November 2018
-- Onsite Registration Deadline: 30 November 2018
 - Conference: 27-30 November 2018
