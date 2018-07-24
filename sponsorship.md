@@ -11,11 +11,9 @@ permalink: /sponsorship
 |==========|===========|
 | [*International Journal of Digital Crime and Forensics (IJDCF)*](https://www.igi-global.com/journal/international-journal-digital-crime-forensics/1112)<br/> Indexed in: EI (Compendex), SCI, ESCI, SCOPUS, INSPEC, DBLP, and [others](https://www.igi-global.com/journal/international-journal-digital-crime-forensics/1112#indices) | [![IJDCF](/assets/images/IJDCF.png)]((https://www.igi-global.com/journal/international-journal-digital-crime-forensics/1112)) |
 |==========|===========|
-<<<<<<< HEAD
 | [*Imaging*](http://www.mdpi.com/journal/jimaging)<br/> Open Access<br/> Indexed in: Emerging Sources Citation Index (ESCI - Web of Science), Inspect (IET), and DBLP | [![MDPI Imaging](/assets/images/imaging-logo.png)](http://www.mdpi.com/journal/jimaging) |
 =======
 | [*Journal of Imaging*](http://www.mdpi.com/journal/jimaging)<br/> Open Access<br/> Indexed in: SCIE - Web of Science, PubMed/MEDLINE, Scopus, EI Compendex | [![MDPI Imaging](/assets/images/imaging-logo.png)](http://www.mdpi.com/journal/jimaging) |
->>>>>>> 5f3f3acfbe56590bd0d8164bda7e816d82fb43ca
 
 **Sponsors**
 [![No.1 Motor Group](/assets/images/no1motorgroup.png)](http://www.1motor.co.nz)
