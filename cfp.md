@@ -28,11 +28,11 @@ Hardware and software architectures | Research prototypes | Simulators | Civilia
 
 Original contributions in any of the above (or related) areas are being solicited. Prospective authors are invited to submit full-length papers, up to 6 pages long, including results, figures, tables and references by the due date (see below). Detailed submission instructions will be posted on the Paper Submission page in due time. Each submission will be double-blind peer-reviewed by at least two experts.
 
-**Paper submission is <a href="submission">now open</a>!**
+**Conference Registration is <a href="registration">now open</a>!**
 
 **Important Dates**<br/>
-- Preliminary Abstract Submission: 1 June 2018 [Not Compulsory]
-- Submission of Full Papers: <s>15 June 2018</s> 30 June 2018 (23:59:59 PST)
+- <s>Preliminary Abstract Submission: 1 June 2018 [Not Compulsory]</s>
+- <s>Submission of Full Papers: <s>15 June 2018</s> 30 June 2018 (23:59:59 PST)</s>
 - Notification of Acceptance: 1 September 2018
 - Submission of Camera Ready Papers: 15 September 2018
 - Conference: 27-30 November 2018
