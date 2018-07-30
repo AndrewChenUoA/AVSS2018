@@ -34,6 +34,8 @@ side:
         url: /venue
       - title: "Travel"
         url: /travel
+      - title: "Accommodation"
+        url: /accommodation
       - title: "Committees"
         url: /committees
       - title: "Reviewers"
