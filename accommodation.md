@@ -2,7 +2,7 @@
 layout: single
 permalink: /accommodation
 ---
-There are a number of accommodation choices close to the conference venue:
+There are many accommodation choices close to the conference venue:
 
 Mid-Range to Luxury
 - <a href="https://www.starwoodhotels.com/fourpoints/property/overview/index.html?propertyID=4808&language=en_US">Four Points by Sheraton</a>
