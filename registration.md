@@ -8,7 +8,7 @@ permalink: /registration
 
 <table>
 <tbody>
-<tr><td><b>Category</b></td><td><b>Earlybird Prices</b><br/>Before 15 September (NZST)</td><td><b>Standard Prices</b><br/>16 September Onwards (NZST)</td></tr>
+<tr><td><b>Category</b></td><td><b>Earlybird Prices</b><br/>Before 15 September (NZST)</td><td><b>Standard Prices</b><br/>After 16 September (NZST)</td></tr>
 <tr><td>IEEE Member</td><td>NZ$650</td><td>NZ$750</td></tr>
 <tr><td>IEEE SPS Member</td><td>NZ$650</td><td>NZ$750</td></tr>
 <tr><td>Non-IEEE Member</td><td>NZ$800</td><td>NZ$950</td></tr>
