@@ -3,86 +3,78 @@ layout: single
 permalink: /reviewers
 ---
 **Technical Program Committee**
-- Noor Al-ani, Auckland University of Technology, New Zealand
 - Mahmoud Al-sarayreh, Auckland University of Technology, NZ
-- Rizwan Asghar, University of Auckland, New Zealand
+- Rizwan Asghar, University of Auckland, NZ
 - Pradeep Atrey, SUNY at Albany, USA
+- George Azzopardi, University of Groningen, The Netherlands
 - Francois Bremond, Inria Sophia Antipolis, France
 - Simone Calderara, University of Modena and Reggio Emilia, Italy
 - Pierluigi Carcagni, CNR ISASI, Italy
 - Vincenzo Carletti, Unisa, Italy
-- Ricardo Carmona-Galan, Institute of Microelectronics of Seville, Spain
 - Ming-Ching Chang, SUNY at Albany, USA
-- Andrew Tzer-Yeu Chen, University of Auckland, New Zealand
+- Andrew Tzer-Yeu Chen, University of Auckland, NZ
 - Cunjian Chen, Michigan State University, USA
-- Hsiang-Jen Chien, Auckland University of Technology, New Zealand
+- Hsiang-Jen Chien, Auckland University of Technology, NZ
 - Titas De,	Institute of Technology Kharagpur, India
 - Simon Denman, Queensland University of Technology, Australia
-- Amita Dhiman, Auckland University of Technology, New Zealand
-- Cosimo Distante, National Research Council, Italy
-- Linh Do, University of Auckland, New Zealand
+- Amita Dhiman, Auckland University of Technology, NZ
+- Nick Do, University of Auckland, NZ
 - Dawei Du, University of the Chinese Academy of Sciences, China
-- Yuval Elovici, Ben-Gurion University of the Negev, Israel
 - Matteo Fabbri, University of Modena and Reggio Emilia, Italy
-- A.C.M. Fong, West Michigan University, USA
 - Clinton Fookes, Queensland University of Technology, Australia
 - Rui Gong, Tokyo University, Japan
 - Antonio Greco, University of Salerno, Italy
-- Qin Gu, UESTC, China
 - Bohyung Han, Seoul National University, Korea
 - Jean-Bernard Hayet, CIMAT, Mexico
 - Tiejun Huang, Peking University, China
 - Lipeng Ke, University of the Chinese Academy of Sciences, China
-- Waqar Khan, WelTec, New Zealand
+- Waqar Khan, Wellington Institute of Technology, NZ
 - Hanseok Ko, Korea University, Korea
 - Janusz Konrad, Boston University, USA
 - Fatih Kurugollu, University of Derby, UK
-- Edmund Lai, Auckland University of Technology, New Zealand
 - Fabio Lanzi, University of Modena and Reggio Emilia, Italy
 - Trung-Nghia Le, SOKENDAI, Japan
+- Robert Le, Auckland University of Technology, NZ
 - Wenbo Li, SUNY at Albany, USA 
 - Yuezun Li, SUNY at Albany, USA
 - Xufeng Lin, Charles Sturt University, Australia
 - Feng Liu, Chinese Academy of Sciences, China
 - Amy Loufti, Orebro University, Italy
-- Jia Lu, Auckland University of Technology, New Zealand
+- Jia Lu, Auckland University of Technology, NZ
 - Ju Liu, Shandong University, China
-- Dwarikanath Mahapatra, IBM Research, Australia
 - Lucio Marcenaro, Università degli studi di Genoa, Italy
-- Manoranjan Mohanty, University of Auckland, New Zealand
-- Zahra Moayed, Auckland University of Technology, New Zealand
-- Sandino Morales, Mexico and United Kingdom
+- Manoranjan Mohanty, University of Auckland, NZ
+- Zahra Moayed, Auckland University of Technology, NZ
+- Sandino Morales, Nanyang Technological University, Singapore
 - Saibal Mukhopadhyay, Georgia Institute of Technology, USA
-- Parma Nand, Auckland University of Technology, New Zealand
-- Minh Nguyen, Auckland University of Technology, New Zealand
-- Mark Nixon, University of Southampton, United Kingdom
-- Asem Othman, Veridium, USA
+- Minh Nguyen, Auckland University of Technology, NZ
+- Mark Nixon, University of Southampton, UK
 - Chen Pan, China Jiliang University, China
 - Vishal Patel, Johns Hopkins University, USA
 - Fei Peng, Hunan University, China
 - Fatih Porikli, Australian National University, Australia
 - Laiyun Qing, University of the Chinese Academy of Sciences, China
 - Faisal Qureshi, University of Ontario Institute of Technology, Canada
-- Ralf Reulke, DLR, Germany
+- Ralf Reulke, Humboldt-Universität zu Berlin, Germany
 - Bernhard Rinner, Klagenfurt University, Austria
 - Alessia Saggese, University of Salerno, Italy
 - Mukesh Saini, IIT Ropar, India
-- Asaf Shabtai, Ben-Gurion University, Israel
 - Chao Shen, Xi'an Jiaotong University, China
 - Nenghui Song, SUNY at Albany, USA
 - Nicola Strisciuglio, University of Groningen, Netherlands
-- Clarence Tan, Auckland University of Technology, New Zealand
-- Junli Tao, New Zealand
+- Clarence Tan, Auckland University of Technology, NZ
+- Junli Tao, Auckland University of Technology, NZ
 - YingLi Tian, City University of New York, USA
-- Hui Wang, Ulster University, UK
+- Sriram Varadarajan, Ulster University, UK
 - Xiuhui Wang, China Jiliang University, China
 - Yi Wei, SUNY at Albany, USA
 - Marilyn Wolf, Georgia Institute of Technology, USA
 - Alexander Woodward, Tokyo University, Japan
 - Xiaotian Wu, Jinan University, China
 - Xuehu Yan, National University of Defense, China
-- Lidong Zhai, Chinese Academy of Sciences, China
-- Hongmou Zhang, DLR, Germany
-- Cong Zhang, UCAS, China
-- Xianfeng Zhao, Chinese Academy of Sciences, China
+- Cheng Yang, Auckland University of Technology, NZ
+- Xinguo Yu, Central China Normal University, China
+- Hongmou Zhang, German Aerospace Center (DLR), Germany
+- Cong Zhang, University of the Chinese Academy of Sciences, China
+- Xianfeng Zhao, University of the Chinese Academy of Sciences, China
 - Yi Zhu, UC Merced, USA

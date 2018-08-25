@@ -17,7 +17,3 @@ permalink: /registration
 <tr><td>IEEE Life Member</td><td>NZ$550</td><td>NZ$650</td></tr>
 </tbody>
 </table>
-
-<b>Important Dates:</b>
-- Early-bird Registration Deadline: 15 September 2018
-- Conference Dates: 27-30 November 2018
