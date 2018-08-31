@@ -50,6 +50,8 @@ side:
     children:
       - title: "Submission"
         url: /submission
+      - title: "Accepted Papers"
+        url: /accepted
       - title: "Camera-Ready"
         url: /cameraready
         
