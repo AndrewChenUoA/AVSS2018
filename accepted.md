@@ -7,7 +7,7 @@ permalink: /accepted
 1: <i>Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Detection</i><br />
 Remi trichet (DCU); Francois Bremond (Inria Sophia Antipolis, France)
 
-2: Context is King: Privacy Perceptions of Camera-based Surveillance</i><br />
+2: <i>Context is King: Privacy Perceptions of Camera-based Surveillance</i><br />
 Andrew Tzer-Yeu Chen (University of Auckland); Morteza Biglari-Abhari (University of Auckland); Kevin I-Kai Wang (University of Auckland, New Zealand)
 
 7: <i>Content-Based Multi-Camera Video Alignment using Accelerometer Data</i><br />
