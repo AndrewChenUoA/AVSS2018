@@ -47,7 +47,7 @@ Lars Sommer (Fraunhofer IOSB, Karlsruhe, Germany); Oliver Acatay (Fraunhofer IOS
 Bappaditya Debnath (Edge Hill University); Mary O'brien (Edge Hill University); Motonori Yamaguchi (Edge Hill University); Ardhendu Behera (Edge Hill University)
 
 36: <i>Use of a Confidence Map Towards Improved Multi-layer Stixel Segmentation</i><br />
-Noor Haitham Saleem (AUT); Reinhard Klette (Auckland University of Technology)
+Noor Haitham Saleem (AUT); Reinhard Klette (Auckland University of Technology); Fay Huang (National Ilan University)
 
 40: <i>Neural network control for active cameras using master-slave setup</i><br />
 Renan Oliveira Reis (Federal University of Minas Gerais); William R Schwartz (Federal University of Minas Gerais); Igor Dias (Federal University of Minas Gerais)
