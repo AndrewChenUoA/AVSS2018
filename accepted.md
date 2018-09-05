@@ -4,6 +4,8 @@ permalink: /accepted
 ---
 **Accepted Papers**
 
+Congratulations to all authors of accepted papers!
+
 1: <i>Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Detection</i><br />
 Remi trichet (DCU); Francois Bremond (Inria Sophia Antipolis, France)
 
