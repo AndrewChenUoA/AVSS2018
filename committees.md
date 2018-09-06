@@ -85,7 +85,7 @@ Faith Kurugollu (University of Derby, UK)
 - Bernhard Rinner (Alpen-Adria-Universität Klagenfurt, Austria)
 
 **Local Organising Office:**
-- Glen Bailey (Auckland University of Technology, New Zealand) (Administration and Logistics)
+- Selina Nihalani-Sharma (Auckland University of Technology, New Zealand) (Administration and Logistics)
 - Andrew Chen (University of Auckland, New Zealand) (Website)
 - Zahra Moayed (Auckland University of Technology, New Zealand) (Enquiries)
 - Minh Nguyen (Auckland University of Technology, New Zealand) (Chair)
