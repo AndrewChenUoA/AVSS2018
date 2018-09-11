@@ -2,17 +2,16 @@
 layout: single
 permalink: /cameraready
 ---
-Congratulations to your accepted AVSS2018 paper!
+Congratulations on your accepted AVSS18 paper!
 
 Please follow the following steps to submit the final (camera-ready) version of your paper:
-1. <b>Revise your paper</b>: Please read reviewer comments and revise your paper to address them (if applicable), add author information and revert any changes you had made to ensure author anonymity. You must use either the Latex or the Microsoft Word template below (if you haven’t already done so when preparing the original submission) as otherwise IEEE will not accept your paper for publication in IEEE Xplore. In Latex, you need to uncomment the “\avssfinalcopy” and “\thispagestyle{empty}” lines. <b>The final version must not include line numbers (blue) and page numbers (at the bottom)</b>.
+1. <b>Revise your paper</b>: Please read reviewer comments and revise your paper to address them (if applicable), add author information and revert any changes you had made to ensure author anonymity. You must use either the Latex or the Microsoft Word template below (if you haven’t already done so when preparing the original submission) as otherwise IEEE will not accept your paper for publication in IEEE Xplore. In Latex, you need to uncomment the “\avssfinalcopy” and “\thispagestyle{empty}” lines. <b>The final version must not include line numbers (blue) and page numbers (at the bottom)</b>.<br/>
 - LaTeX template: <a href="https://avss2018.org/assets/avss_latex_template.zip">avss18_latex_template</a>
 - Microsoft Word template: <a href="https://avss2018.org/assets/avss_word_template.zip">avss18_word_template</a>
-- <b>Copyright Notice</b> (if needed): A copyright notice should be added to your paper before proceeding with the next step. Please see below for details.
 
 2. <b>Check PDF file compliance with IEEE PDF eXpress</b>: Go to <a href="http://www.pdf-express.org/plus">http://www.pdf-express.org/plus</a> and use “<b>43572XP</b>” as the conference ID. If you have used PDF eXpress before (for another conference), login with your credentials; you will be asked to set up an account for AVSS2018. Follow the instructions for setting up a new title. If you are a new user, please set up a new account and carefully read all the instructions. After you login, you can find information on how to prepare your source or PDF file in the menu on the left.
 
-3. <b>Upload your paper’s PDF file and IEEE copyright form</b>: Upload the PDF-eXpress-approved file to AVSS2018 submission site (Microsoft CMT).  After you login, use the “Camera-ready – Edit” icon to submit your paper. 
+3. <b>Upload your paper’s PDF file</b>: Upload the PDF-eXpress-approved file to the <a href="https://cmt3.research.microsoft.com/AVSS2018">AVSS2018 submission site</a> (Microsoft CMT).  After you login, use the “Camera-ready – Edit” icon to submit your paper. Copyright transfer form information will be provided soon.
 
 <hr/>
 
