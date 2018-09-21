@@ -6,7 +6,7 @@ permalink: /workshops
 
 **Deadlines**<br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
-Submission: 7 September 2018<br/>
+<s>Submission: 7 September 2018</s><br/>
 Notification of acceptance: 1 October 2018<br/>
 Camera-ready deadline: 15 October 2018<br/>
 <hr/>
@@ -161,6 +161,6 @@ For more information, see the <a href="http://iwdcf.net/">website here</a>.
 
 **Deadlines**<br/>
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
-Submission: 7 September 2018<br/>
+<s>Submission: 7 September 2018</s><br/>
 Notification of acceptance: 1 October 2018<br/>
 Camera-ready deadline: 15 October 2018<br/>
