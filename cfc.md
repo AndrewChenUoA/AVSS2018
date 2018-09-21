@@ -21,9 +21,9 @@ The challenge evaluations will be conducted focusing on the key points listed be
 Challenges will be allocated a half-day workshop slot at the conference (this may vary depending on the number of challenges and received challenge submissions).
 
 **Important Challenge Dates:**<br/>
-- Challenge Proposal Deadline: 1 February 2018
-- Notification of Acceptance: 1 March 2018
-- Challenge Announcements on AVSS 2018 Website: 1 March 2018
+- <s>Challenge Proposal Deadline: 1 February 2018</s>
+- <s>Notification of Acceptance: 1 March 2018</s>
+- <s>Challenge Announcements on AVSS 2018 Website: 1 March 2018</s>
 - Challenge Half-Day Workshops: 27 November 2018
 - Challenge Winners Announcements: 29 November 2018
 
