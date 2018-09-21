@@ -16,9 +16,9 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - 1 min spotlight presentation will be given for each poster at the beginning of the poster sessions
 - Authors of oral presentations have the chance to display a poster after their presentations
 - Editorial board meetings will be during afternoon tea time on Day 2
-- An introduction to AVSS 2019 will be at the Conference Dinner on Day 2
+- An introduction to AVSS 2019 at the Conference Dinner on Day 2
 
-|       Time       | Workshops/Tutorials<br/>(27 Nov 2018)                  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
+|       Time       | Workshops +<br/>Tutorials<br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | 08.30 - 09.00am  | **Registration**                             | **Registration** Opening at 8.50                   | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Session 1                                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
