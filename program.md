@@ -18,7 +18,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Editorial board meetings will be during afternoon tea time on Day 2
 - An introduction to AVSS 2019 at the Conference Dinner on Day 2
 
-|       Time       | Workshops/Tutorials<br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
+|       Time       | Workshops/Tutorials<br/>(27 Nov 2018)        | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | 08.30 - 09.00am  | **Registration**                             | **Registration** Opening at 8.50                   | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Session 1                                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
@@ -39,29 +39,30 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
 0850-0900 <b>Conference Opening</b>, WG224<br/>
-0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology, New Zealand), WG224<br/>
+0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology, New Zealand), WG224<br/><br/>
 1000-1030 <b>Poster Session I</b>, WG201<br/>
-<p style="font-size:12pt">
+<span style="font-size:12pt">
 GPS and IMU Require Visual Odometry for Elevation Accuracy<br/>
-Dirk Baumbach (DLR); Hongmou Zhang (DLR); Sergey Zuev (DLR); Jürgen Wohlfeil (DLR); Martin Knoche (NIC); Reinhard Klette (Auckland University of Technology)<br/>
+Dirk Baumbach (DLR); Hongmou Zhang (DLR); Sergey Zuev (DLR); Jürgen Wohlfeil (DLR); Martin Knoche (NIC); Reinhard Klette (Auckland University of Technology)<br/><br/>
 Comprehensive Evaluation of Deep Learning based Detection Methods for Vehicle Detection in Aerial Imagery<br/>
-Lars Sommer (Fraunhofer IOSB, Karlsruhe, Germany); Oliver Acatay (Fraunhofer IOSB, Karlsruhe, Germany); Arne Schumann (Fraunhofer IOSB)<br/>
+Lars Sommer (Fraunhofer IOSB, Karlsruhe, Germany); Oliver Acatay (Fraunhofer IOSB, Karlsruhe, Germany); Arne Schumann (Fraunhofer IOSB)<br/><br/>
 A Fast and Accurate Forward Vehicle Start Alarm by Tracking Moving Edges Obtained from Dashboard Camera<br/>
-Kang Yi (Handong Global University); Kyeong Hoon Jung (Kookmin University)<br/>
+Kang Yi (Handong Global University); Kyeong Hoon Jung (Kookmin University)<br/><br/>
 Use of a Confidence Map Towards Improved Multi-layer Stixel Segmentation<br/>
-Noor Haitham Saleem (AUT); Reinhard Klette (Auckland University of Technology); Fay Huang (National Ilan University)<br/>
+Noor Haitham Saleem (AUT); Reinhard Klette (Auckland University of Technology); Fay Huang (National Ilan University)<br/><br/>
 Content-Based Multi-Camera Video Alignment using Accelerometer Data<br/>
-Antonio C. Nazare (Federal University of Minas Gerais); Filipe de O. Costa (Fundação CPqD Centro de Pesquisa e Desenvolvimento em Telecomunicações); William R Schwartz (Federal University of Minas Gerais)<br/>
+Antonio C. Nazare (Federal University of Minas Gerais); Filipe de O. Costa (Fundação CPqD Centro de Pesquisa e Desenvolvimento em Telecomunicações); William R Schwartz (Federal University of Minas Gerais)<br/><br/>
 Image-based Sea/Land Map Generation from Radar Data<br/>
-Francesc Joan Riera (Aalborg University); Rasmus Engholm (Terma A/S); Lars Jochumsen (Terma A/S); Thomas B. Moeslund (Aalborg University)<br/>
+Francesc Joan Riera (Aalborg University); Rasmus Engholm (Terma A/S); Lars Jochumsen (Terma A/S); Thomas B. Moeslund (Aalborg University)<br/><br/>
 Implementation of Modulated Wideband Converter compressed sensing scheme based on COTS lowpass filter with amplitude and phase compensation for spectrum monitoring<br/>
-Lap Luat Nguyen (Université de Bretagne Occidentale); Anthony Fiche (Université de Bretagne Occidentale); Roland Gautier (Université de Bretagne Occidentale); Charles Canaff (Université de Bretagne Occidentale); Emanuel Radoi (Université de Bretagne Occidentale); Gilles Burel (Université de Bretagne Occidentale)<br/>
+Lap Luat Nguyen (Université de Bretagne Occidentale); Anthony Fiche (Université de Bretagne Occidentale); Roland Gautier (Université de Bretagne Occidentale); Charles Canaff (Université de Bretagne Occidentale); Emanuel Radoi (Université de Bretagne Occidentale); Gilles Burel (Université de Bretagne Occidentale)<br/><br/>
 Neural network control for active cameras using master-slave setup<br/>
-Renan Oliveira Reis (Federal University of Minas Gerais); William R Schwartz (Federal University of Minas Gerais); Igor Dias (Federal University of Minas Gerais)<br/>
+Renan Oliveira Reis (Federal University of Minas Gerais); William R Schwartz (Federal University of Minas Gerais); Igor Dias (Federal University of Minas Gerais)<br/><br/>
 Face Identification for an in-vehicle Surveillance System Using Near Infrared Camera<br/>
-Minsong Ki (Yonsei University); Bora Cho (Yonsei University); Taejun Jeon (Yonsei University); Yeongwoo Choi (Sookmyung Women’s University); Hyeran Byun (Yonsei University)<br/>
+Minsong Ki (Yonsei University); Bora Cho (Yonsei University); Taejun Jeon (Yonsei University); Yeongwoo Choi (Sookmyung Women’s University); Hyeran Byun (Yonsei University)<br/><br/>
 Real-Time Vehicle Re-Identification System Using Symmelets and HOMs<br/>
-Jun-Wei Hsieh (National Taiwan Ocean University)</p>
+Jun-Wei Hsieh (National Taiwan Ocean University)
+</span>
 
 1030-1100 Day I Morning Tea, WG201<br/>
 1100-1200 <b>Oral Session 1: Event Recognition</b>, WG224<br/>
