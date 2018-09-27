@@ -15,7 +15,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Editorial board meetings will be during afternoon tea time on Day 2
 - An introduction to AVSS 2019 will be given at the Conference Dinner on Day 2
 
-|       Time       | Workshops/Tutorials<br/>(27 Nov 2018)        | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
+|       Time       | Workshops /<br/>Tutorials<br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | 08.30 - 09.00am  | **Registration**                             | **Registration** + Conference Opening at 8.50      | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Session 1                                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
@@ -35,12 +35,12 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Authors of oral presentations have the chance to display a poster as well
 
 <b>Tuesday 27 November 2018</b><br/>
-<b>Workshops and Tutorials</b>, details TBC
+Workshops and Tutorials, details TBC
 
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
 0850-0900 <b>Conference Opening</b>, WG224<br/>
-0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology, New Zealand), WG224<br/><br/>
+0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology), WG224<br/><br/>
 1000-1030 <b>Poster Session I</b>, WG201<br/>
 <span style="font-size:12pt">
 GPS and IMU Require Visual Odometry for Elevation Accuracy<br/>
@@ -197,13 +197,13 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
 Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>
 Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
-Hanseok Ko (Korea University); Yun Jeongseop (korea university)<br/><br/>
+Hanseok Ko (Korea University); Yun Jeongseop (Korea University)<br/><br/>
 Multispectral Matching using Conditional Generative Appearance Modeling<br/>
 Christoph Bodensteiner (Fraunhofer IOSB); Sebastian W Bullinger (Fraunhofer IOSB); Michael Arens (Fraunhofer IOSB)<br/><br/>
 GPU-accelerated Height Map Estimation with Local Geometry Priors in Large Scenes<br/>
 Alireza Rezaei (Paris Sud University); Nicola Pellicanò (Paris Sud University); Emanuel Aldea (University Paris Sud)<br/><br/>
 Detecting and Counting Sheep with a Convolutional Neural Network<br/>
-Farah Sarwar (AUT); Anthony Griffin (AUT University)<br/><br/>
+Farah Sarwar (AUT); Anthony Griffin (AUT)<br/><br/>
 Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering<br/>
 Young-Chul Yoon (Gwangju Institute of Science and Technology); Abhijeet Boragule (Gwangju Institute of Science and Technology); Young-min Song (Gwangju Institute of Science and Technology); Kwangjin Yoon (Gwangju Institute of Science and Technology); Moongu Jeon (Gwangju Institute of Science and Technology)<br/><br/>
 Scene Adaptation for Semantic Segmentation using Adversarial Learning<br/>
@@ -234,11 +234,11 @@ Ardhendu Behera (Edge Hill University); Alexander H Keidel (Edge Hill University
 A Blockchain Implementation for the Cataloguing of CCTV Video Evidence<br/>
 Michael Kerr (ACIC); Ron van Schyndel (RMIT University); Fengling Han (RMIT University)<br/><br/>
 Encrypted Domain Skin Tone Detection For Pornographic Image Filtering<br/>
-Waheeb Yaqub (New York University Abu Dhabi); Manoranjan Mohanty (University of Auckland, New Zealand); Nasir Memon (New York University)<br/><br/>
+Waheeb Yaqub (New York University Abu Dhabi); Manoranjan Mohanty (University of Auckland); Nasir Memon (New York University)<br/><br/>
 Multimodel Drunk Density Estimation for Safety Assessment<br/>
 pratibha kumari (IIT ROAPR); mandhatya singh (IIT ROPAR); Mukesh Saini (IIT Ropar)<br/><br/>
 Context is King: Privacy Perceptions of Camera-based Surveillance<br/>
-Andrew Tzer-Yeu Chen (University of Auckland); Morteza Biglari-Abhari (University of Auckland); Kevin I-Kai Wang (University of Auckland, New Zealand)<br/><br/>
+Andrew Tzer-Yeu Chen (University of Auckland); Morteza Biglari-Abhari (University of Auckland); Kevin I-Kai Wang (University of Auckland)<br/><br/>
 Deepfake Video Detection Using Recurrent Neural Networks<br/>
 David Güera (Purdue University); Edward Delp (Purdue University)<br/><br/>
 Counting People by Infrared Depth Sensors<br/>
