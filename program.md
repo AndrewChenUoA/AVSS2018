@@ -66,14 +66,17 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 
 1030-1100 Day I Morning Tea, WG201<br/>
 1100-1200 <b>Oral Session 1: Event Recognition</b>, WG224<br/>
+<span style="font-size:12pt">
 Simultaneous event localization and recognition for surveillance video<br/>
 Yikang Li (Arizona State University); Tianshu Yu (Arizona State University); Baoxin Li (Arizona State University)<br/><br/>
 Optical Flow Dataset and Benchmark for Visual Crowd Analysis<br/>
 Gregory Schröder (Technische Universität Berlin); Tobias Senst (TU Berlin); Erik Bochinski (TU Berlin); Thomas Sikora (TU Berlin)<br/><br/>
 Fast but Not Deep: Efficient Crowd Abnormality Detection with Local Binary Tracklets<br/>
 Mahdyar Ravanbakhsh (University of Genova); Hossein Mousavi (Polytechnique Montreal); Moin Nabi (SAP); LUCIO MARCENARO (Universita degli Studi di Genoa, Genoa); Carlo Regazzoni (Universita degli Studi di Genoa, Genoa)
+</span>
 
 1200-1230 <b>Poster Session II</b>, WG201<br/>
+<span style="font-size:12pt">
 Simultaneous event localization and recognition for surveillance video<br/>
 Yikang Li (Arizona State University); Tianshu Yu (Arizona State University); Baoxin Li (Arizona State University)<br/><br/>
 Optical Flow Dataset and Benchmark for Visual Crowd Analysis<br/>
@@ -92,11 +95,13 @@ Deep-Temporal LSTM for Daily Living Action Recognition<br/>
 Srijan Das (INRIA); Michal Koperski (INRIA); Francois Bremond (Inria Sophia Antipolis, France); Gianpiero Francesca (Toyota-Europe)<br/><br/>
 Residual Transfer Learning for Multiple Object Tracking<br/>
 Juan Diego Gonzales Zuniga (INRIA); NGUYEN THI LAN ANH (INRIA Sophia-Antipolis); Francois Bremond (Inria Sophia Antipolis, France)
+</span>
 
 1230-1330 Day I Lunch, WG201<br/>
 1330-1500 <b>Keynote Speech II: Professor Ramesh Jain</b> (University of California Irvine, USA), WG224<br/>
-1500-1530 Day I Afternoon Tea, WG201<br/>
+1500-1530 Day I Afternoon Tea, WG201<br/><br/>
 1530-1710 <b>Oral Session II: Object Detection, Recognition, and Tracking</b>, WG224<br/>
+<span style="font-size:12pt">
 Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
 Kyung Won Lee (Suny at buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
 Combining Local and Global Models for Robust Re-detection in Generic Object Tracking<br/>
@@ -105,13 +110,15 @@ Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Detection<br
 Remi trichet (DCU); Francois Bremond (Inria Sophia Antipolis, France)<br/><br/>
 CAMEL Dataset for Visual and Thermal Infrared Multiple Object Detection and Tracking<br/>
 Evan T Gebhardt (The Georgia Institute of Technology)
+</span>
 
 1830-2100 <b>Welcome Reception</b>, WG201
 
 <b>Thursday 29 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
-0900-1000 <b>Keynote Speech III</b>, WG224<br/>
+0900-1000 <b>Keynote Speech III</b>, WG224<br/><br/>
 1000-1030 <b>Poster Session III</b>, WG201<br/>
+<span style="font-size:12pt">
 Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
 Kyung Won Lee (suny at buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
 Combining Local and Global Models for Robust Re-detection in Generic Object Tracking<br/>
@@ -130,38 +137,44 @@ Contactless Multiple Finger Segments based Identity Verification using Informati
 AKMAL JAHAN MOHAMED ABDUL CADER (Queensland University of Technology- Australia); Jasmine Banks (QUT); Vinod Chandran (QUT); Kien Nguyen Thanh (Queensland University of Technology)<br/><br/>
 Classifying self-cast shadow regions in aerial camera images<br/>
 Alexander Gatter (DLR)
+</span>
 
 1030-1100 Day II Morning Tea, WG201<br/>
 1100-1200 <b>Oral Session III: Identification</b>, WG224<br/>
+<span style="font-size:12pt">
 A Generalized Optimization Framework for Score Aggregation in Person Re-identification Systems<br/>
 Arko Barman (University of Houston); Shishir Shah (University of Houston)<br/><br/>
 Fast Simultaneous People Detection and Re-identification in a Single Shot Network<br/>
 Wiebe Van Ranst (KU Leuven); Toon Goedemé (KU Leuven - EAVISE)<br/><br/>
 An Intent-Based Automated Traffic Light for Pedestrians<br/>
 Christian Ertler (Graz University of Technology); Horst Possegger (Graz University of Technology); Michael Opitz (Graz University of Technology); Horst Bischof (Graz University of Technology)
+</span>
 
-1200-1230 <b>Poster Session IV</b></br>
-A Generalized Optimization Framework for Score Aggregation in Person Re-identification Systems</br>
-Arko Barman (University of Houston); Shishir Shah (University of Houston)</br></br>
-Fast Simultaneous People Detection and Re-identification in a Single Shot Network</br>
-Wiebe Van Ranst (KU Leuven); Toon Goedemé (KU Leuven - EAVISE)</br></br>
-An Intent-Based Automated Traffic Light for Pedestrians</br>
-Christian Ertler (Graz University of Technology); Horst Possegger (Graz University of Technology); Michael Opitz (Graz University of Technology); Horst Bischof (Graz University of Technology)</br></br>
-Detection of High-Risk Intoxicated Passengers in Video Surveillance</br>
-Jae-Yeong Lee (Electronics and Telecommunications Research Institute); Sunglok Choi (ETRI); Jaeho Lim (ETRI)</br></br>
-Online Detection of Long-Term Daily Living Activities by Weakly Supervised Recognition of Sub-Activities</br>
-farhood negin (INRIA sophia antipolis); Abhishek Goel (INRIA); Abdelrahman G Abubakr (INRIA); Gianpiero Francesca (Toyota-Europe); Francois Bremond (Inria Sophia Antipolis, France)</br></br>
-Deep Residual Learning for Analyzing Customer Satisfaction using Video Surveillance</br>
-Nehemia Sugianto (Southern Cross University); Dian Tjondronegoro (Southern Cross University)</br></br>
-Late Fusion of Multiple Convolutional Layers for Pedestrian Detection</br>
-Ujjwal Ujjwal (INRIA); Aziz Dziri (VEDECOM); Bertrand Leroy (VEDECOM); Francois Bremond (Inria Sophia Antipolis, France)</br></br>
-Drone Detection Using Convolutional Neural Networks with Acoustic STFT Features</br>
-Yoojeong Seo (Soongsil University); Beomhui Jang (Soongsil University); Sungbin Im (Soongsil University)</br></br>
-Local Computation with Adaptive Spatial Clustering for Multi-Size Motion Patch Proposals in WAMI</br>
+1200-1230 <b>Poster Session IV</b><br/>
+<span style="font-size:12pt">
+A Generalized Optimization Framework for Score Aggregation in Person Re-identification Systems<br/>
+Arko Barman (University of Houston); Shishir Shah (University of Houston)<br/><br/>
+Fast Simultaneous People Detection and Re-identification in a Single Shot Network<br/>
+Wiebe Van Ranst (KU Leuven); Toon Goedemé (KU Leuven - EAVISE)<br/><br/>
+An Intent-Based Automated Traffic Light for Pedestrians<br/>
+Christian Ertler (Graz University of Technology); Horst Possegger (Graz University of Technology); Michael Opitz (Graz University of Technology); Horst Bischof (Graz University of Technology)<br/><br/>
+Detection of High-Risk Intoxicated Passengers in Video Surveillance<br/>
+Jae-Yeong Lee (Electronics and Telecommunications Research Institute); Sunglok Choi (ETRI); Jaeho Lim (ETRI)<br/><br/>
+Online Detection of Long-Term Daily Living Activities by Weakly Supervised Recognition of Sub-Activities<br/>
+farhood negin (INRIA sophia antipolis); Abhishek Goel (INRIA); Abdelrahman G Abubakr (INRIA); Gianpiero Francesca (Toyota-Europe); Francois Bremond (Inria Sophia Antipolis, France)<br/><br/>
+Deep Residual Learning for Analyzing Customer Satisfaction using Video Surveillance<br/>
+Nehemia Sugianto (Southern Cross University); Dian Tjondronegoro (Southern Cross University)<br/><br/>
+Late Fusion of Multiple Convolutional Layers for Pedestrian Detection<br/>
+Ujjwal Ujjwal (INRIA); Aziz Dziri (VEDECOM); Bertrand Leroy (VEDECOM); Francois Bremond (Inria Sophia Antipolis, France)<br/><br/>
+Drone Detection Using Convolutional Neural Networks with Acoustic STFT Features<br/>
+Yoojeong Seo (Soongsil University); Beomhui Jang (Soongsil University); Sungbin Im (Soongsil University)<br/><br/>
+Local Computation with Adaptive Spatial Clustering for Multi-Size Motion Patch Proposals in WAMI<br/>
 Yijun Lin (University of Chinese Academy of Sciences); Fengge Wu (Institute of Software Chinese Academy of Sciences)
+</span>
 
 1230-1330 Day II Lunch, WG201<br/>
 1330-1500 <b>Oral Session IV: Modelling, WG224</b><br/>
+<span style="font-size:12pt">
 Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
 Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>  
 Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
@@ -170,14 +183,16 @@ Multispectral Matching using Conditional Generative Appearance Modeling<br/>
 Christoph Bodensteiner (Fraunhofer IOSB); Sebastian W Bullinger (Fraunhofer IOSB); Michael Arens (Fraunhofer IOSB)<br/><br/>
 Real-Time Vehicle Re-Identification System Using Symmelets and HOMs<br/>
 Jun-Wei Hsieh (National Taiwan Ocean University)
+</span>
 
 1500-1530 Day II Afternoon Tea, WG201<br/>
 1830-2100 Conference Dinner, Wintergarden Pavillion
 
 <b>Friday 30 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
-0900-1000 <b>Keynote Speech IV</b>, WG224<br/>
+0900-1000 <b>Keynote Speech IV</b>, WG224<br/><br/>
 1000-1030 <b>Poster Session V</b>, WG201<br/>
+<span style="font-size:12pt">
 Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
 Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>  
 Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
@@ -198,17 +213,21 @@ Adapting MobileNets for mobile based upper body pose estimation<br/>
 Bappaditya Debnath (Edge Hill University); Mary O’brien (Edge Hill University); Motonori Yamaguchi (Edge Hill University); Ardhendu Behera (Edge Hill University)<br/><br/>
 ACOUSTIC SCENE CLASSIFICATION USING JOINT TIME FREQUENCY IMAGE-BASED FEATURE REPRESENTATIONS<br/>
 Shamsiah Abidin (The University of Western Australia); Roberto Togneri (The University of Western Australia); Ferdous Sohel (Murdoch University)
+</span>
 
 1030-1100 Day III Morning Tea, WG201<br/>
 1100-1200 <b>Oral Session V: Scene Understanding</b><br/>
+<span style="font-size:12pt">
 GPU-accelerated Height Map Estimation with Local Geometry Priors in Large Scenes<br/>
 Alireza Rezaei (Paris Sud University); Nicola Pellicanò (Paris Sud University); Emanuel Aldea (University Paris Sud)<br/><br/>
 Online Multi-Object Tracking with Historical Appearance Matching and Scene Adaptive Detection Filtering<br/>
 Young-Chul Yoon (Gwangju Institute of Science and Technology); Abhijeet Boragule (Gwangju Institute of Science and Technology); Young-min Song (Gwangju Institute of Science and Technology); Kwangjin Yoon (Gwangju Institute of Science and Technology); Moongu Jeon (Gwangju Institute of Science and Technology)<br/><br/>
 Scene Adaptation for Semantic Segmentation using Adversarial Learning<br/>
 Daniele Di Mauro (University of Catania); Antonino Furnari (University of Catania); Giuseppe Patané (Park Smart S.r.l.); Sebastiano Battiato (Università di Catania); Giovanni Maria Farinella (University of Catania, Italy)
+</span>
 
 1200-1230 Poster Session VI, WG201<br/>
+<span style="font-size:12pt">
 Latent Body-Pose guided DenseNet for Recognizing Driver's Fine-grained Secondary Activities<br/>
 Ardhendu Behera (Edge Hill University); Alexander H Keidel (Edge Hill University)<br/><br/>
 A Blockchain Implementation for the Cataloguing of CCTV Video Evidence<br/>
@@ -229,9 +248,11 @@ Ontology-based Masking Loss for Improved Generalization in Remote Sensing Semant
 Arne Schumann (Fraunhofer IOSB); Lars Sommer (Fraunhofer IOSB, Karlsruhe, Germany); Max Vogler (Fraunhofer IOSB)<br/><br/>
 Rotation-invariant Binary Representation of Sensor Pattern Noise for Source-Oriented Image and Video Clustering<br/>
 Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
+</span>
 
 1230-1330 Day III Lunch, WG201<br/>
 1330-1500 <b>Oral Session VI: Deep Learning</b>, WG224<br/>
+<span style="font-size:12pt">
 Edge-Host Partitioning of Deep Neural Networks with Feature Space Encoding for Resource-Constrained Internet-of-Things Platforms<br/>
 Jong Hwan Ko (Georgia Tech); Taesik Na (Georgia Tech); Mohammad Amir (Georgia Tech); Saibal Mukhopadhyay (Georgia Tech)<br/><br/>
 WatchNet: Efficient and Sequential Network for People Detection in Video Surveillance Systems<br/>
@@ -240,9 +261,11 @@ Orientation-Aware Regression for Oriented Bounding Box Estimation<br/>
 Ryusuke Nosaka (Intelligent Systems Laboratory, SECOM CO., LTD.); Hidenori Ujiie (Intelligent Systems Laboratory, SECOM CO., LTD.); Takaharu Kurokawa (Intelligent Systems Laboratory, SECOM CO., LTD.)<br/><br/>
 Real-time maritime situation awareness based on deep learning with dynamic anchors<br/>
 Vincent Marié (Aix Marseille Univ, Université de Toulon, CNRS, LIS, UMR 7020); Ikhlef Bechar (Aix Marseille Univ, Université de Toulon, CNRS, LIS, UMR 7020); Frédéric BOUCHARA (University of Toulon)
+</span>
 
 1500-1530 Day III Afternoon Tea, WG201<br/>
 1530-1610 <b>Oral Session VII: Sensors and Security</b>, WG224<br/>
+<span style="font-size:12pt">
 Deepfake Video Detection Using Recurrent Neural Networks<br/>
 David Güera (Purdue University); Edward Delp (Purdue University)<br/><br/>
 Counting People by Infrared Depth Sensors<br/>
@@ -253,5 +276,6 @@ Ontology-based Masking Loss for Improved Generalization in Remote Sensing Semant
 Arne Schumann (Fraunhofer IOSB); Lars Sommer (Fraunhofer IOSB, Karlsruhe, Germany); Max Vogler (Fraunhofer IOSB)<br/><br/>
 Rotation-invariant Binary Representation of Sensor Pattern Noise for Source-Oriented Image and Video Clustering<br/>
 Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
+</span>
 
 1830-2100 <b>Conference Farewell / Best Paper Awards</b>, WG224
