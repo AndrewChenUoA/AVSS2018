@@ -12,11 +12,8 @@ Fri 30 November: Keynote Speaker, Conference Sessions, Farewell<br/><br/>
 Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.-->
 
 **Program at a Glance**
-- Each oral presentation should be 20 min (15 min talk, 5 min setup/questions)
-- 1 min spotlight presentation will be given for each poster at the beginning of the poster sessions
-- Authors of oral presentations have the chance to display a poster after their presentations
 - Editorial board meetings will be during afternoon tea time on Day 2
-- An introduction to AVSS 2019 at the Conference Dinner on Day 2
+- An introduction to AVSS 2019 will be given at the Conference Dinner on Day 2
 
 |       Time       | Workshops/Tutorials<br/>(27 Nov 2018)        | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
@@ -33,6 +30,10 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 | 18.30 - 21.00pm  | City Tour                                    | Welcome Reception                                  | <a href="https://avss2018.org/venue">Conference Dinner at Wintergarden Pavillion</a> | Farewell / Best Paper Awards |
 
 **Full Program**<br/><br/>
+- Each oral presentation should be 20 min (15 min talk, 5 min setup/questions)
+- 1 min spotlight presentation will be given for each poster at the beginning of the poster sessions
+- Authors of oral presentations have the chance to display a poster as well
+
 <b>Tuesday 27 November 2018</b><br/>
 <b>Workshops and Tutorials</b>, details TBC
 
