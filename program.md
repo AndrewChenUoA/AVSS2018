@@ -186,7 +186,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 </span>
 
 1500-1530 Day II Afternoon Tea, WG201<br/>
-1830-2100 Conference Dinner, Wintergarden Pavillion
+1830-2100 <b>Conference Dinner</b>, <a href="https://avss2018.org/venue">Wintergarden Pavillion</a>
 
 <b>Friday 30 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
@@ -216,7 +216,7 @@ Shamsiah Abidin (The University of Western Australia); Roberto Togneri (The Univ
 </span>
 
 1030-1100 Day III Morning Tea, WG201<br/>
-1100-1200 <b>Oral Session V: Scene Understanding</b><br/>
+1100-1200 <b>Oral Session V: Scene Understanding</b>, WG224<br/>
 <span style="font-size:12pt">
 GPU-accelerated Height Map Estimation with Local Geometry Priors in Large Scenes<br/>
 Alireza Rezaei (Paris Sud University); Nicola Pellicanò (Paris Sud University); Emanuel Aldea (University Paris Sud)<br/><br/>
