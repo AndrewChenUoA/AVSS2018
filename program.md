@@ -20,7 +20,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 
 |       Time       | Workshops/Tutorials<br/>(27 Nov 2018)        | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
-| 08.30 - 09.00am  | **Registration**                             | **Registration** Opening at 8.50                   | **Registration**                                   | **Registration**                                   |
+| 08.30 - 09.00am  | **Registration**                             | **Registration** + Conference Opening at 8.50      | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Session 1                                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
 | 10.00 - 10.30am  | Session 1                                    | Poster 1                                           | Poster 3                                           | Poster 5                                           |
 | 10.30 - 11.00am  | **Morning Tea**                              | **Morning Tea**                                    | **Morning Tea**                                    | **Morning Tea**                                    |
@@ -105,7 +105,7 @@ Juan Diego Gonzales Zuniga (INRIA); NGUYEN THI LAN ANH (INRIA Sophia-Antipolis);
 Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
 Kyung Won Lee (Suny at buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
 Combining Local and Global Models for Robust Re-detection in Generic Object Tracking<br/>
-Goutam Bhat (Linkoping University); Martin Danelljan (Linkoping University); Fahad Shahbaz Khan (Linköping University); Michael Felsberg (Linköping University)<br/><br/>  
+Goutam Bhat (Linköping University); Martin Danelljan (Linköping University); Fahad Shahbaz Khan (Linköping University); Michael Felsberg (Linköping University)<br/><br/>
 Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Detection<br/>
 Remi trichet (DCU); Francois Bremond (Inria Sophia Antipolis, France)<br/><br/>
 CAMEL Dataset for Visual and Thermal Infrared Multiple Object Detection and Tracking<br/>
@@ -122,17 +122,17 @@ Evan T Gebhardt (The Georgia Institute of Technology)
 Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
 Kyung Won Lee (suny at buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
 Combining Local and Global Models for Robust Re-detection in Generic Object Tracking<br/>
-Goutam Bhat (Linkoping University); Martin Danelljan (Linkoping University); Fahad Shahbaz Khan (Linköping University); Michael Felsberg (Linköping University)<br/><br/>  
+Goutam Bhat (Linköping University); Martin Danelljan (Linköping University); Fahad Shahbaz Khan (Linköping University); Michael Felsberg (Linköping University)<br/><br/>
 Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Detection<br/>
 Remi trichet (DCU); Francois Bremond (Inria Sophia Antipolis, France)<br/><br/>
 CAMEL Dataset for Visual and Thermal Infrared Multiple Object Detection and Tracking<br/>
 Evan T Gebhardt (The Georgia Institute of Technology)<br/><br/>
 Evaluating deep semantic segmentation networks for object detection in maritime surveillance<br/>
-Tom Cane (University of Reading); James Ferryman (UNIV. OF READING, UK)<br/><br/>
+Tom Cane (University of Reading); James Ferryman (University of Reading)<br/><br/>
 Pixel Offset Regression (POR) for Single-shot Instance Segmentation<br/>
 Yuezun Li (SUNY, albany); Xiao Bian (GE Global Research); Ming-Ching Chang (Albany University); Longyin Wen (JD Finance); Siwei Lyu (University at Albany)<br/><br/>
 A Consensus Framework for Segmenting Video with Dynamic Textures<br/>
-lazhar khelifi (Montreal university); Max Mignotte (Université de Montreal)<br/><br/>
+Lazhar Khelifi (Université de Montreal); Max Mignotte (Université de Montreal)<br/><br/>
 Contactless Multiple Finger Segments based Identity Verification using Information Fusion from Higher Order Spectral Invariants<br/>
 AKMAL JAHAN MOHAMED ABDUL CADER (Queensland University of Technology- Australia); Jasmine Banks (QUT); Vinod Chandran (QUT); Kien Nguyen Thanh (Queensland University of Technology)<br/><br/>
 Classifying self-cast shadow regions in aerial camera images<br/>
@@ -176,7 +176,7 @@ Yijun Lin (University of Chinese Academy of Sciences); Fengge Wu (Institute of S
 1330-1500 <b>Oral Session IV: Modelling, WG224</b><br/>
 <span style="font-size:12pt">
 Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
-Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>  
+Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>
 Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
 Hanseok Ko (Korea University); Yun Jeongseop (Korea University)<br/><br/>
 Multispectral Matching using Conditional Generative Appearance Modeling<br/>
@@ -194,7 +194,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 1000-1030 <b>Poster Session V</b>, WG201<br/>
 <span style="font-size:12pt">
 Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
-Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>  
+Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>
 Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
 Hanseok Ko (Korea University); Yun Jeongseop (korea university)<br/><br/>
 Multispectral Matching using Conditional Generative Appearance Modeling<br/>
@@ -226,7 +226,7 @@ Scene Adaptation for Semantic Segmentation using Adversarial Learning<br/>
 Daniele Di Mauro (University of Catania); Antonino Furnari (University of Catania); Giuseppe Patané (Park Smart S.r.l.); Sebastiano Battiato (Università di Catania); Giovanni Maria Farinella (University of Catania, Italy)
 </span>
 
-1200-1230 Poster Session VI, WG201<br/>
+1200-1230 <b>Poster Session VI</b>, WG201<br/>
 <span style="font-size:12pt">
 Latent Body-Pose guided DenseNet for Recognizing Driver's Fine-grained Secondary Activities<br/>
 Ardhendu Behera (Edge Hill University); Alexander H Keidel (Edge Hill University)<br/><br/>
