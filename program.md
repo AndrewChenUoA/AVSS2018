@@ -170,7 +170,9 @@ Ujjwal Ujjwal (INRIA); Aziz Dziri (VEDECOM); Bertrand Leroy (VEDECOM); Francois 
 Drone Detection Using Convolutional Neural Networks with Acoustic STFT Features<br/>
 Yoojeong Seo (Soongsil University); Beomhui Jang (Soongsil University); Sungbin Im (Soongsil University)<br/><br/>
 Local Computation with Adaptive Spatial Clustering for Multi-Size Motion Patch Proposals in WAMI<br/>
-Yijun Lin (University of Chinese Academy of Sciences); Fengge Wu (Institute of Software Chinese Academy of Sciences)
+Yijun Lin (University of Chinese Academy of Sciences); Fengge Wu (Institute of Software Chinese Academy of Sciences)<br/><br/>
+Adaptive Control of Camera Modality with Deep Neural Network-Based Feedback for Efficient Object Tracking<br/>
+Priyabrata Saha (Georgia Institute of Technology); Burhan A Mudassar (Georgia Institute of Technology); Saibal Mukhopadhyay (Georgia Institute of Technology)
 </span>
 
 1230-1330 Day II Lunch, WG201<br/>
