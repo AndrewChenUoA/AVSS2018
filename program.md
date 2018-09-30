@@ -15,7 +15,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Editorial board meetings will be during afternoon tea time on Day 2
 - An introduction to AVSS 2019 will be given at the Conference Dinner on Day 2
 
-|       Time       | Workshops /<br/>Tutorials<br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
+|       Time       | Workshops<br/>Tutorials<br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | 08.30 - 09.00am  | **Registration**                             | **Registration** + Conference Opening at 8.50      | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Session 1                                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
