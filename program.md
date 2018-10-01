@@ -35,7 +35,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Authors of oral presentations have the chance to display a poster as well
 
 <b>Tuesday 27 November 2018</b><br/>
-Workshops and Tutorials, details TBC
+Workshops, Challenges, and Tutorials, details TBC
 
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
