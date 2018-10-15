@@ -4,6 +4,7 @@ permalink: /presenters
 ---
 
 **Oral Presentation Instructions**
+
 Each oral presentation is allocated 20 minutes: 15 minutes for presentation + 5 minutes for questions and setup. All oral presentation papers will also have the opportunity to display a poster (see instructions below).
 
 We encourage you to use bullet points with as little text as possible, and only show essential math. At the conference, 15 minutes before your session you must:
@@ -12,6 +13,7 @@ We encourage you to use bullet points with as little text as possible, and only 
 - If you use the conference computer, remember to embed (and not link) all videos into the presentation file
 
 **Poster Instructions**
+
 Posters are in A1 size, portrait orientation. Please use sufficiently large fonts for readability.
 
 Posters must be set up from 0830 to 0900 in the morning on the day of the respective poster session, and removed at the end of the day. The board for your poster will be identified by the paper number from the program. Materials to attach your poster to the board will be provided.
