@@ -4,6 +4,8 @@ permalink: /travel
 ---
 Auckland is a vibrant and exciting city with lots to see and do. It is New Zealand's largest city and considered by many the Gateway to the Pacific. While you're here, take the opportunity to explore the city. For a comprehensive overview of Auckland, go to <a href="www.aucklandnz.com">www.aucklandnz.com</a>.
 
+The nearest airport is <b>Auckland Airport</b> [-37.008187, 174.785063]. Many direct international flights are available, although some flights may need to be directed through Australia.
+
 **Visas**<br/>
 All overseas visitors are required to have a valid passport and, with the exception of delegates from visa-free countries (please see below), are required to have the appropriate visa. For information on obtaining a visa, including necessary funds and health requirements,
 please visit <a href="http://www.immigration.govt.nz/migrant/stream/visit/visitors/">http://www.immigration.govt.nz/migrant/stream/visit/visitors/</a>.

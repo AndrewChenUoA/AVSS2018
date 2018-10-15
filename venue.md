@@ -4,7 +4,7 @@ permalink: /venue
 ---
 **Conference Venue**
 
-The conference will be held at the Auckland University of Technology's City Campus, in the WG building.
+The conference will be held at the Auckland University of Technology's City Campus, in the WG building. [-36.853187, 174.767313]
 
 | <img src="/assets/images/aut_wg_4-1000x563.jpg"> |
 
@@ -14,7 +14,7 @@ The conference will be held at the Auckland University of Technology's City Camp
 
 **Conference Dinner**
 
-The dinner will be held at the beautiful Wintergarden Pavillion in the Auckland Domain.
+The dinner will be held at the beautiful Wintergarden Pavillion in the Auckland Domain. [-36.859687, 174.773813]
 
 | <img src="/assets/images/wintergarden_07.jpg"> | <img src="/assets/images/wintergarden_08.jpg"> |
 | <img src="/assets/images/wintergarden_09.jpg"> | <img src="/assets/images/wintergarden_05.jpg"> |
