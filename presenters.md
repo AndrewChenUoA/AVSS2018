@@ -16,6 +16,6 @@ We encourage you to use bullet points with as little text as possible, and only 
 
 Posters are in A1 size, portrait orientation. Please use sufficiently large fonts for readability.
 
-Posters must be set up from 0830 to 0900 in the morning on the day of the respective poster session, and removed at the end of the day. The board for your poster will be identified by the paper number from the program. Materials to attach your poster to the board will be provided.
+The board for your poster will be identified by the paper number from the program. Materials to attach your poster to the board will be provided.
 
 Poster papers (i.e. those that do not have an oral presentation) will also have a 60 second spotlight presentation at the beginning of each poster session, accompanied by a single slide. The intention of the spotlight presentation is to draw people's attention to the posters and are not meant to be mini-talks. We ask the authors of each poster to prepare a one slide summary. Note that due to the limited resolution of the projector, your poster will not be legible if displayed on the screen, so we encourage you to prepare one slide using Powerpoint or similar software.
