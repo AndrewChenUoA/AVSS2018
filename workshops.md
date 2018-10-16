@@ -8,6 +8,7 @@ permalink: /workshops
 Workshop papers are 6 pages long (including references), with up to two more pages (attracting extra page charges), with double blind review.
 <s>Submission: 7 September 2018</s><br/>
 Notification of acceptance: 1 October 2018<br/>
+Earlybird Registration for workshop papers: Extended to 22 Oct 2018<br/>
 Camera-ready deadline: 15 October 2018<br/>
 <hr/>
 
