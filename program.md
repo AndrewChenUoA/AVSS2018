@@ -35,7 +35,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 **Full Program**<br/><br/>
 
 <b>Tuesday 27 November 2018</b><br/>
-<a href="/workshops">Workshops</a>, <a href="/challenges">Challenges</a>, and <a href="/tutorials">Tutorials</a>, details TBC
+<a href="/workshops">Workshops</a>, <a href="/challenges">Challenges</a>, and <a href="/tutorials">Tutorials</a>
 
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
