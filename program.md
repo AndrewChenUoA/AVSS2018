@@ -35,7 +35,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 **Full Program**<br/><br/>
 
 <b>Tuesday 27 November 2018</b><br/>
-<a href="/workshops">Workshops</a>, <a href="/challenges">Challenges</a>, and <a href="/tutorials">Tutorials</a>
+<a href="/workshops">Workshops</a>, <a href="/challenges">Challenges</a>, and <a href="/tutorials">Tutorials</a><br/>
 WS I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a><br/>
 WS II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a><br/>
 WS III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a><br/>
@@ -43,7 +43,7 @@ WS IV: <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the
 WS V: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a><br/>
 WS VI: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a><br/><br/>
 CS I: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a><br/>
-CS II: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a><br/><br/>
+CS II: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a><br/>
 
 <a href="/tutorials">Tutorial on Deep Learning and Multiple Drone Vision</a><br/>
 1330-1415 Introduction to Multiple Drone Imaging<br/>
