@@ -18,7 +18,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 - Editorial board meetings will be during afternoon tea time on Day 2
 - An introduction to AVSS 2019 will be given at the Conference Dinner on Day 2
 
-|       Time       | Workshops<br/>Challenges<br/>Tutorials<br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
+|       Time       | <a href="/workshops">Workshops</a><br/><a href="/challenges">Challenges</a><br/><a href="/tutorials">Tutorials</a><br/>(27 Nov 2018)  | Conference<br/>Day 1<br/>(28 Nov 2018)             |   Conference<br/>Day 2<br/>(29 Nov 2018)           |   Conference<br/>Day 3<br/>(30 Nov 2018)           |
 |:----------------:|:--------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------:|
 | 08.30 - 09.00am  | **Registration**                             | **Registration** + Conference Opening at 8.50      | **Registration**                                   | **Registration**                                   |
 | 09.00 - 10.00am  | Session 1                                    | Keynote 1                                          | Keynote 3                                          | Keynote 4                                          |
@@ -35,12 +35,12 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 **Full Program**<br/><br/>
 
 <b>Tuesday 27 November 2018</b><br/>
-Workshops, Challenges, and Tutorials, details TBC
+<a href="/workshops">Workshops</a>, <a href="/challenges">Challenges</a>, and <a href="/tutorials">Tutorials</a>, details TBC
 
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
-0850-0900 <b>Conference Opening</b>, WG224<br/>
-0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology), WG224<br/><br/>
+0850-0900 <b>Conference Opening</b>, WA224<br/>
+0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology), WA224<br/><br/>
 1000-1030 <b>Poster Session I</b>, WG201<br/>
 <span style="font-size:12pt">
 PS I.1: GPS and IMU Require Visual Odometry for Elevation Accuracy<br/>
@@ -66,7 +66,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 </span>
 
 1030-1100 Day I Morning Tea, WG201<br/>
-1100-1200 <b>Oral Session 1: Event Recognition</b>, WG224<br/>
+1100-1200 <b>Oral Session 1: Event Recognition</b>, WA224<br/>
 <span style="font-size:12pt">
 OS I.1: Simultaneous event localization and recognition for surveillance video<br/>
 Yikang Li (Arizona State University); Tianshu Yu (Arizona State University); Baoxin Li (Arizona State University)<br/><br/>
@@ -99,9 +99,9 @@ Juan Diego Gonzales Zuniga (INRIA); NGUYEN THI LAN ANH (INRIA Sophia-Antipolis);
 </span>
 
 1230-1330 Day I Lunch, WG201<br/>
-1330-1500 <b>Keynote Speech II: Professor Ramesh Jain</b> (University of California Irvine, USA), WG224<br/>
+1330-1500 <b>Keynote Speech II: Professor Ramesh Jain</b> (University of California Irvine, USA), WA224<br/>
 1500-1530 Day I Afternoon Tea, WG201<br/><br/>
-1530-1710 <b>Oral Session II: Object Detection, Recognition, and Tracking</b>, WG224<br/>
+1530-1710 <b>Oral Session II: Object Detection, Recognition, and Tracking</b>, WA224<br/>
 <span style="font-size:12pt">
 OS II.1: Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
 Kyung Won Lee (SUNY at buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
@@ -117,7 +117,7 @@ Evan T Gebhardt (Georgia Institute of Technology)
 
 <b>Thursday 29 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
-0900-1000 <b>Keynote Speech III</b>, WG224<br/><br/>
+0900-1000 <b>Keynote Speech III</b>, WA224<br/><br/>
 1000-1030 <b>Poster Session III</b>, WG201<br/>
 <span style="font-size:12pt">
 OS II.1: Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
@@ -141,7 +141,7 @@ Alexander Gatter (DLR)
 </span>
 
 1030-1100 Day II Morning Tea, WG201<br/>
-1100-1200 <b>Oral Session III: Identification</b>, WG224<br/>
+1100-1200 <b>Oral Session III: Identification</b>, WA224<br/>
 <span style="font-size:12pt">
 OS III.1: A Generalized Optimization Framework for Score Aggregation in Person Re-identification Systems<br/>
 Arko Barman (University of Houston); Shishir Shah (University of Houston)<br/><br/>
@@ -176,7 +176,7 @@ Priyabrata Saha (Georgia Institute of Technology); Burhan A Mudassar (Georgia In
 </span>
 
 1230-1330 Day II Lunch, WG201<br/>
-1330-1500 <b>Oral Session IV: Modelling, WG224</b><br/>
+1330-1500 <b>Oral Session IV: Modelling, WA224</b><br/>
 <span style="font-size:12pt">
 OS IV.1: Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
 Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>
@@ -193,7 +193,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 
 <b>Friday 30 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
-0900-1000 <b>Keynote Speech IV</b>, WG224<br/><br/>
+0900-1000 <b>Keynote Speech IV</b>, WA224<br/><br/>
 1000-1030 <b>Poster Session V</b>, WG201<br/>
 <span style="font-size:12pt">
 OS IV.1: Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
@@ -219,7 +219,7 @@ Shamsiah Abidin (The University of Western Australia); Roberto Togneri (The Univ
 </span>
 
 1030-1100 Day III Morning Tea, WG201<br/>
-1100-1200 <b>Oral Session V: Scene Understanding</b>, WG224<br/>
+1100-1200 <b>Oral Session V: Scene Understanding</b>, WA224<br/>
 <span style="font-size:12pt">
 OS V.1: GPU-accelerated Height Map Estimation with Local Geometry Priors in Large Scenes<br/>
 Alireza Rezaei (Paris Sud University); Nicola Pellicanò (Paris Sud University); Emanuel Aldea (University Paris Sud)<br/><br/>
@@ -254,7 +254,7 @@ Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
 </span>
 
 1230-1330 Day III Lunch, WG201<br/>
-1330-1500 <b>Oral Session VI: Deep Learning</b>, WG224<br/>
+1330-1500 <b>Oral Session VI: Deep Learning</b>, WA224<br/>
 <span style="font-size:12pt">
 OS VI.1: Edge-Host Partitioning of Deep Neural Networks with Feature Space Encoding for Resource-Constrained Internet-of-Things Platforms<br/>
 Jong Hwan Ko (Georgia Tech); Taesik Na (Georgia Tech); Mohammad Amir (Georgia Tech); Saibal Mukhopadhyay (Georgia Tech)<br/><br/>
@@ -267,7 +267,7 @@ Vincent Marié (Aix Marseille Univ, Université de Toulon); Ikhlef Bechar (Aix M
 </span>
 
 1500-1530 Day III Afternoon Tea, WG201<br/>
-1530-1610 <b>Oral Session VII: Sensors and Security</b>, WG224<br/>
+1530-1610 <b>Oral Session VII: Sensors and Security</b>, WA224<br/>
 <span style="font-size:12pt">
 OS VII.1: Deepfake Video Detection Using Recurrent Neural Networks<br/>
 David Güera (Purdue University); Edward Delp (Purdue University)<br/><br/>
@@ -281,4 +281,4 @@ OS VII.5: Rotation-invariant Binary Representation of Sensor Pattern Noise for S
 Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
 </span>
 
-1830-2100 <b>Conference Farewell / Best Paper Awards</b>, WG224
+1830-2100 <b>Conference Farewell / Best Paper Awards</b>, WA224
