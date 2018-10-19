@@ -8,6 +8,7 @@ permalink: /tutorials
 Lecturer: **Prof. Ioannis Pitas** (<a href="mailto:pitas@aiia.csd.auth.gr">pitas@aiia.csd.auth.gr</a>)<br/>
 Aristotle University of Thessaloniki, Greece
 
+Tuesday 27 November 2018<br/>
 1330-1415 Introduction to Multiple Drone Imaging<br/>
 1415-1500 Mapping and Localization<br/>
 1530-1615 Deep Learning for Target Detection<br/>
