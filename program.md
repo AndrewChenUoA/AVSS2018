@@ -39,13 +39,13 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 
 0900-1710 CS I in WG901: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a><br/>
 TBA CS II in WG902: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a><br/><br/>
-1330-1710 TBA WS I in WG903: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a><br/>
+1330-1710 WS I in WG903: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a><br/>
 0900-1230 WS II, III, and IV in WG904:<br/>
 <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a><br/>
 <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a><br/>
 <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the Security of Video Surveillance Systems (SVSS 2018)</a><br/>
 0900-1710 WS V in WG901: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a><br/>
-TBA WS VI WG905: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a><br/>
+0900-1710 WS VI WG905: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a><br/>
 
 1330-1710 <a href="/tutorials">Tutorial on Deep Learning and Multiple Drone Vision</a> in WG906<br/>
 1330-1415 Introduction to Multiple Drone Imaging<br/>
