@@ -37,20 +37,22 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 <b>Tuesday 27 November 2018</b><br/>
 <a href="/workshops">Workshops</a>, <a href="/challenges">Challenges</a>, and <a href="/tutorials">Tutorials</a><br/>
 
-0900-1710 CS I: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a> (WG901)<br/>
-0900-1710 CS II: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a> (WG902)<br/><br/>
-1330-1710 WS I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a> (WG903)<br/>
-0900-1230 WS II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a> (WG904)<br/>
-0900-1230 WS III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a> (WG904)<br/>
-0900-1230 WS IV: <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the Security of Video Surveillance Systems (SVSS 2018)</a> (WG904)<br/>
-0900-1710 WS V: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a> (WG901)<br/>
-0900-1710 WS VI: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a> (WG905)<br/>
+0830-0900 Conference Registration, WG201<br/>
 
-1330-1710 <a href="/tutorials">Tutorial on Deep Learning and Multiple Drone Vision</a> (WG906)<br/>
-1330-1415 Introduction to Multiple Drone Imaging<br/>
-1415-1500 Mapping and Localization<br/>
-1530-1615 Deep Learning for Target Detection<br/>
-1615-1710 2D Target Tracking and 3D Target Localization<br/>
+0900-1710 CS I: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a>, WG901<br/>
+0900-1710 CS II: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a>, WG902<br/><br/>
+1330-1710 WS I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a>, WG903<br/>
+0900-1230 WS II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a>, WG904<br/>
+0900-1230 WS III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a>, WG904<br/>
+0900-1230 WS IV: <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the Security of Video Surveillance Systems (SVSS 2018)</a>, WG904<br/>
+0900-1710 WS V: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a>, WG901<br/>
+0900-1710 WS VI: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a>, WG905<br/>
+
+1330-1710 <a href="/tutorials">Tutorial on Deep Learning and Multiple Drone Vision</a>, WG906<br/>
+1330-1415 TS I: Introduction to Multiple Drone Imaging, WG906<br/>
+1415-1500 TS II: Mapping and Localization, WG906<br/>
+1530-1615 TS III: Deep Learning for Target Detection, WG906<br/>
+1615-1710 TS IV: 2D Target Tracking and 3D Target Localization, WG906<br/>
 
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
