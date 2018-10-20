@@ -12,7 +12,7 @@ Please follow the following steps to submit the final (camera-ready) version of 
 
 2. <b>Check PDF file compliance with IEEE PDF eXpress</b>: Go to <a href="http://www.pdf-express.org/plus">http://www.pdf-express.org/plus</a> and use “<b>43572XP</b>” as the conference ID. If you have used PDF eXpress before (for another conference), login with your credentials; you will be asked to set up an account for AVSS2018. Follow the instructions for setting up a new title. If you are a new user, please set up a new account and carefully read all the instructions. After you login, you can find information on how to prepare your source or PDF file in the menu on the left.
 
-3. <b>Upload your paper’s PDF file</b>: Upload the PDF-eXpress-approved file to the <a href="https://cmt3.research.microsoft.com/AVSS2018">AVSS2018 submission site</a> (Microsoft CMT).  After you login, use the “Camera-ready – Edit” icon to submit your paper. Copyright transfer form information will be provided soon.
+3. <b>Upload your paper’s PDF file</b>: Upload the PDF-eXpress-approved file to the <a href="https://cmt3.research.microsoft.com/AVSS2018">AVSS2018 submission site</a> (Microsoft CMT).  After you login, use the “Camera-ready – Edit” icon to submit your paper. The copyright transfer form must be completed.
 
 <hr/>
 
@@ -25,7 +25,7 @@ Please follow the following steps to submit the final (camera-ready) version of 
 <hr/>
 
 <b>COPYRIGHT NOTICE (if needed)</b>
-A copyright notice should be add to the footer (on the left) of the first page of the paper.
+A copyright notice should be added to the footer (on the left) of the first page of the paper.
 
 - For papers in which all authors are employed by the US government, the copyright notice is: U.S. Government work not protected by U.S. copyright
 - For papers in which all authors are employed by a Crown government (UK, Canada, and Australia), the copyright notice is: 978-1-5386-9294-3/18/$31.00 ©2018 Crown.
