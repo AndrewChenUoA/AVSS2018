@@ -2,7 +2,7 @@
 layout: single
 permalink: /travel
 ---
-**<a href="/docs/AVSS2018-Travel-Handbook.pdf">See our travel handbook here!</a>**
+**<a href="/assets/AVSS2018-Travel-Handbook.pdf">See our travel handbook here!</a>**
 
 Auckland is a vibrant and exciting city with lots to see and do. It is New Zealand's largest city and considered by many the Gateway to the Pacific. While you're here, take the opportunity to explore the city. For a comprehensive overview of Auckland, go to <a href="www.aucklandnz.com">www.aucklandnz.com</a>.
 
