@@ -57,7 +57,7 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 <b>Wednesday 28 November 2018</b><br/>
 0830-0850 Conference Registration, WG201<br/>
 0850-0900 <b>Conference Opening</b>, WA224<br/>
-0900-1000 <b>Keynote Speech 1: Professor Nikola Kasabov</b> (Auckland University of Technology), WA224<br/><br/>
+0900-1000 <b>Keynote Speech I: Professor Nikola Kasabov</b> (Auckland University of Technology), WA224<br/><br/>
 1000-1030 <b>Poster Session I</b>, WG201<br/>
 <span style="font-size:12pt">
 PS I.1: GPS and IMU Require Visual Odometry for Elevation Accuracy<br/>
@@ -210,7 +210,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 
 <b>Friday 30 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
-0900-1000 <b>Keynote Speech IV</b>, WA224<br/><br/>
+0900-1000 <b>Keynote Speech IV: Professor Mengjie Zhang</b> (Victoria University of Wellington), WA224<br/><br/>
 1000-1030 <b>Poster Session V</b>, WG201<br/>
 <span style="font-size:12pt">
 OS IV.1: Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
