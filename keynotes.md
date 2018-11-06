@@ -16,10 +16,6 @@ Wednesday 28 November, 1330-1500
 Professor Ramesh Jain co-founded several companies, managed them in their initial stages, and then turned them over to professional management.  He enjoys new challenges and likes to use technology to solve them.  He is participating in addressing the biggest challenge for us all: how to live long in good health.<br/><br/>
 Professor Jain's talk is titled "A Navigational Approach to Health". An abstract is <a href="/keynote_jain">available here</a>.
 
-**Professor Fatih Porikli**<br/>
-Australian National University, Australia<br/>
-<img src="/assets/images/fatih-porikli.png" style="float:left;padding-right:25px;padding-top:7px;max-width:200px" alt="Professor Fatih Porikli"/> Fatih Porikli is an IEEE Fellow and a Professor with the Research School of Engineering, Australian National University. He is currently acting as a Chief Scientist at Huawei. Until 2017, he was the Leader of the Computer Vision Research Group at NICTA. He has received his Ph.D. from New York University (NYU). Previously, he served a Distinguished Research Scientist at Mitsubishi Electric Research Laboratories (MERL). His current interests include computer vision, machine learning, deep learning, manifold learning, robust and sparse optimization, data analytics, and online learning with many commercial applications including video surveillance, autonomous vehicles, intelligent transportation, medical systems, industrial inspection, satellite systems, automation, visualization, and consumer electronics. He is the co-editor of two books on Video Analytics for Business Intelligence and Handbook on Background Modeling and Foreground Detection for Video Surveillance. His publications have won six Best Paper Awards. He has received the RD100 Award in the Scientist of the Year category in 2006. He has 73 granted US patents.
-
 **Professor Mengjie Zhang**<br/>
 Victoria University of Wellington, New Zealand<br/>
 Friday 30 November, 0900-1000<br/>
