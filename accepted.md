@@ -133,7 +133,7 @@ Carlos Orrite (University of Zaragoza); Daniel Vicente (University of Zaragoza)
 Jae-Yeong Lee (Electronics and Telecommunications Research Institute); Sunglok Choi (ETRI); Jaeho Lim (ETRI)
 
 102: <i>Image fusion and influence function for performance improvement of ATM vandalism action recognition</i><br />
-Hanseok Ko (Korea University); yun jeongseop (korea university)
+Jeonseop Yun (Korea University); Junyeop Lee (Korea University); Seongkyu Mun (Korea University); Chul Jin Cho (Korea University); David K. Han (Army Research Lab); Hanseok Ko (Korea University)
 
 111: <i>Anomaly Detection in Crowds using Multi Sensory Information</i><br />
 Laurissa Tokarchuk (Queen Mary University of London); Muhammad Irfan (Universita degli Studi di Genoa); LUCIO MARCENARO (Universita degli Studi di Genoa, Genoa); Carlo Regazzoni (Universita degli Studi di Genoa, Genoa); Muhammad Irfan (University fo Genova)

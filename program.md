@@ -198,7 +198,7 @@ Priyabrata Saha (Georgia Institute of Technology); Burhan A Mudassar (Georgia In
 OS IV.1: Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
 Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>
 OS IV.2: Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
-Hanseok Ko (Korea University); Yun Jeongseop (Korea University)<br/><br/>
+Jeonseop Yun (Korea University), Junyeop Lee (Korea University), Seongkyu Mun (Korea University), Chul Jin Cho (Korea University), David K. Han (Army Research Lab), Hanseok Ko (Korea University)<br/><br/>
 OS IV.3: Multispectral Matching using Conditional Generative Appearance Modeling<br/>
 Christoph Bodensteiner (Fraunhofer IOSB); Sebastian W Bullinger (Fraunhofer IOSB); Michael Arens (Fraunhofer IOSB)<br/><br/>
 OS IV.4: Real-Time Vehicle Re-Identification System Using Symmelets and HOMs<br/>
@@ -216,7 +216,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 OS IV.1: Efficient Camera Tampering Detection with Automatic Parameter Calibration<br/>
 Alexey Sidnev (Intel); Marina Barinova (Intel); Sergei Nosov (Intel)<br/><br/>
 OS IV.2: Image fusion and influence function for performance improvement of ATM vandalism action recognition<br/>
-Hanseok Ko (Korea University); Yun Jeongseop (Korea University)<br/><br/>
+Jeonseop Yun (Korea University), Junyeop Lee (Korea University), Seongkyu Mun (Korea University), Chul Jin Cho (Korea University), David K. Han (Army Research Lab), Hanseok Ko (Korea University)<br/><br/>
 OS IV.3: Multispectral Matching using Conditional Generative Appearance Modeling<br/>
 Christoph Bodensteiner (Fraunhofer IOSB); Sebastian W Bullinger (Fraunhofer IOSB); Michael Arens (Fraunhofer IOSB)<br/><br/>
 OS V.1: GPU-accelerated Height Map Estimation with Local Geometry Priors in Large Scenes<br/>
