@@ -16,6 +16,11 @@ Wednesday 28 November, 1330-1500
 Professor Ramesh Jain co-founded several companies, managed them in their initial stages, and then turned them over to professional management.  He enjoys new challenges and likes to use technology to solve them.  He is participating in addressing the biggest challenge for us all: how to live long in good health.<br/><br/>
 Professor Jain's talk is titled "A Navigational Approach to Health". An abstract is <a href="/keynote_jain">available here</a>.
 
+**Professor Edward J. Delp**<br/>
+Purdue University, USA<br/>
+<img src="/assets/images/edward_delp.jpg" style="float:left;padding-right:25px;padding-top:7px;max-width:200px" alt="Professor Edward Delp"/> Edward J. Delp is the Charles William Harrison Distinguished Professor of Electrical and Computer Engineering and Professor of Biomedical Engineering at Purdue University. His research interests include image and video processing, image analysis, computer vision, image and video compression, multimedia security, medical imaging, multimedia systems, communication and information theory. Dr. Delp is a Fellow of the IEEE, a Fellow of the SPIE, a Fellow of the Society for Imaging Science and Technology (IS&T), and a Fellow of the American Institute of Medical and Biological Engineering. In 2004 Dr. Delp received the Technical Achievement Award from the IEEE Signal Processing Society for his work in image and video compression and multimedia security. In 2008 he received the Society Award from IEEE Signal Processing Society (SPS). In 2016 Dr. Delp received the Purdue College of Engineering Mentoring Award for his work in mentoring junior faculty and women graduate students.<br/><br/>
+Professor Delp's talk is titled "Precision Farming: The Other Surveillance Problem". An abstract is <a href="/keynote_delp">available here</a>.
+
 **Professor Mengjie Zhang**<br/>
 Victoria University of Wellington, New Zealand<br/>
 Friday 30 November, 0900-1000<br/>
