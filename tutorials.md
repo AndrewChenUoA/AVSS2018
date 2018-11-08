@@ -8,6 +8,8 @@ permalink: /tutorials
 Lecturer: **Prof. Ioannis Pitas** (<a href="mailto:pitas@aiia.csd.auth.gr">pitas@aiia.csd.auth.gr</a>)<br/>
 Aristotle University of Thessaloniki, Greece
 
+Information about the tutorial is also available as <a href="/assets/AVSS2018-Tutorial.pdf">a PDF</a>.
+
 Tuesday 27 November 2018<br/>
 1330-1415 Introduction to Multiple Drone Imaging<br/>
 1415-1500 Mapping and Localization<br/>
