@@ -11,6 +11,8 @@ Fri 30 November: Keynote Speaker, Conference Sessions, Farewell<br/><br/>
 
 Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.-->
 
+Our full <a href="/assets/AVSS2018-Handbook.pdf">conference handbook</a> is also available as a PDF.
+
 **Program at a Glance**
 - Each oral presentation should be 20 min (15 min talk, 5 min setup/questions)
 - 1 min spotlight presentation will be given for each poster at the beginning of the poster sessions
@@ -39,14 +41,14 @@ Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.--
 
 0830-0900 Conference Registration, WG201<br/>
 
-0900-1710 CS I: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a>, WG901<br/>
+0900-1710 CS I: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a>, WG908<br/>
 0900-1710 CS II: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a>, WG902<br/><br/>
 1330-1710 WS I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a>, WG903<br/>
-0900-1230 WS II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a>, WG904<br/>
-0900-1230 WS III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a>, WG904<br/>
-0900-1230 WS IV: <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the Security of Video Surveillance Systems (SVSS 2018)</a>, WG904<br/>
-0900-1710 WS V: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a>, WG901<br/>
-0900-1710 WS VI: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a>, WG905<br/>
+0900-1230 WS II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a>, WG903A<br/>
+0900-1230 WS III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a>, WG903A<br/>
+0900-1230 WS IV: <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the Security of Video Surveillance Systems (SVSS 2018)</a>, WG903A<br/>
+0900-1710 WS V: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a>, WG908<br/>
+0900-1710 WS VI: <a href="http://iwdcf.net/">International Workshop on Digital Crime and Forensics (IWDCF)</a>, WG907<br/>
 
 1330-1710 <a href="/tutorials">Tutorial on Deep Learning and Multiple Drone Vision</a>, WG906<br/>
 1330-1415 TS I: Introduction to Multiple Drone Imaging, WG906<br/>
