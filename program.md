@@ -11,7 +11,7 @@ Fri 30 November: Keynote Speaker, Conference Sessions, Farewell<br/><br/>
 
 Morning Tea, Light Lunch, and Afternoon Tea included from Wednesday to Friday.-->
 
-Our full <a href="/assets/AVSS2018-Handbook.pdf">conference handbook</a> is also available as a PDF.
+Our full <a href="/assets/AVSS2018-Conference-Handbook.pdf">conference handbook</a> is also available as a PDF.
 
 **Program at a Glance**
 - Each oral presentation should be 20 min (15 min talk, 5 min setup/questions)
