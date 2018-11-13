@@ -147,6 +147,8 @@ OS II.3: Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Det
 Remi trichet (DCU); Francois Bremond (Inria Sophia Antipolis)<br/><br/>
 OS II.4: CAMEL Dataset for Visual and Thermal Infrared Multiple Object Detection and Tracking<br/>
 Evan T Gebhardt (Georgia Institute of Technology)<br/><br/>
+OS VI.3: Orientation-Aware Regression for Oriented Bounding Box Estimation<br/>
+Ryusuke Nosaka (Intelligent Systems Laboratory, SECOM CO., LTD.); Hidenori Ujiie (Intelligent Systems Laboratory, SECOM CO., LTD.); Takaharu Kurokawa (Intelligent Systems Laboratory, SECOM CO., LTD.)<br/><br/>
 PS III.1: Evaluating deep semantic segmentation networks for object detection in maritime surveillance<br/>
 Tom Cane (University of Reading); James Ferryman (University of Reading)<br/><br/>
 PS III.2: Pixel Offset Regression (POR) for Single-shot Instance Segmentation<br/>
