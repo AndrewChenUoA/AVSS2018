@@ -180,6 +180,8 @@ OS III.2: Fast Simultaneous People Detection and Re-identification in a Single S
 Wiebe Van Ranst (KU Leuven); Toon Goedemé (KU Leuven - EAVISE)<br/><br/>
 OS III.3: An Intent-Based Automated Traffic Light for Pedestrians<br/>
 Christian Ertler (Graz University of Technology); Horst Possegger (Graz University of Technology); Michael Opitz (Graz University of Technology); Horst Bischof (Graz University of Technology)<br/><br/>
+OS VI.1: Edge-Host Partitioning of Deep Neural Networks with Feature Space Encoding for Resource-Constrained Internet-of-Things Platforms<br/>
+Jong Hwan Ko (Georgia Tech); Taesik Na (Georgia Tech); Mohammad Amir (Georgia Tech); Saibal Mukhopadhyay (Georgia Tech)<br/><br/>
 PS IV.1: Detection of High-Risk Intoxicated Passengers in Video Surveillance<br/>
 Jae-Yeong Lee (Electronics and Telecommunications Research Institute); Sunglok Choi (ETRI); Jaeho Lim (ETRI)<br/><br/>
 PS IV.2: Online Detection of Long-Term Daily Living Activities by Weakly Supervised Recognition of Sub-Activities<br/>
@@ -229,6 +231,8 @@ OS V.2: Online Multi-Object Tracking with Historical Appearance Matching and Sce
 Young-Chul Yoon (Gwangju Institute of Science and Technology); Abhijeet Boragule (Gwangju Institute of Science and Technology); Young-min Song (Gwangju Institute of Science and Technology); Kwangjin Yoon (Gwangju Institute of Science and Technology); Moongu Jeon (Gwangju Institute of Science and Technology)<br/><br/>
 OS V.3: Scene Adaptation for Semantic Segmentation using Adversarial Learning<br/>
 Daniele Di Mauro (University of Catania); Antonino Furnari (University of Catania); Giuseppe Patané (Park Smart S.r.l.); Sebastiano Battiato (Università di Catania); Giovanni Maria Farinella (University of Catania)<br/><br/>
+OS VI.2: WatchNet: Efficient and Sequential Network for People Detection in Video Surveillance Systems<br/>
+Michael Villamizar (Idiap Research Institute); Angel N Martinez Gonzalez (Idiap research institute; EPFL); Olivier CANEVET (Idiap Research Institute); JEAN-MARC ODOBEZ (IDIAP/EPFL, SWITZERLAND)<br/><br/>
 PS V.1: Detecting and Counting Sheep with a Convolutional Neural Network<br/>
 Farah Sarwar (AUT); Anthony Griffin (AUT)<br/><br/>
 PS V.2: MORA: A Generative Approach to Extract Spatiotemporal Information Applied to Gesture Recognitio<br/>
@@ -252,16 +256,8 @@ Daniele Di Mauro (University of Catania); Antonino Furnari (University of Catani
 
 1200-1230 <b>Poster Session VI</b>, WG201<br/>
 <span style="font-size:12pt">
-PS VI.1: Latent Body-Pose guided DenseNet for Recognizing Driver's Fine-grained Secondary Activities<br/>
-Ardhendu Behera (Edge Hill University); Alexander H Keidel (Edge Hill University)<br/><br/>
-PS VI.2: A Blockchain Implementation for the Cataloguing of CCTV Video Evidence<br/>
-Michael Kerr (ACIC); Ron van Schyndel (RMIT University); Fengling Han (RMIT University)<br/><br/>
-PS VI.3: Encrypted Domain Skin Tone Detection For Pornographic Image Filtering<br/>
-Waheeb Yaqub (New York University Abu Dhabi); Manoranjan Mohanty (University of Auckland); Nasir Memon (New York University)<br/><br/>
-PS VI.4: Multimodel Drunk Density Estimation for Safety Assessment<br/>
-pratibha kumari (IIT ROAPR); mandhatya singh (IIT ROPAR); Mukesh Saini (IIT Ropar)<br/><br/>
-PS VI.5: Context is King: Privacy Perceptions of Camera-based Surveillance<br/>
-Andrew Tzer-Yeu Chen (University of Auckland); Morteza Biglari-Abhari (University of Auckland); Kevin I-Kai Wang (University of Auckland)<br/><br/>
+OS VI.4: Real-time maritime situation awareness based on deep learning with dynamic anchors<br/>
+Vincent Marié (Aix Marseille Univ, Université de Toulon); Ikhlef Bechar (Aix Marseille Univ, Université de Toulon); Frédéric BOUCHARA (University of Toulon)<br/><br/>
 OS VII.1: Deepfake Video Detection Using Recurrent Neural Networks<br/>
 David Güera (Purdue University); Edward Delp (Purdue University)<br/><br/>
 OS VII.2: Counting People by Infrared Depth Sensors<br/>
@@ -271,7 +267,17 @@ OS VII.3: ANOMALY DETECTION IN CROWDS USING MULTI SENSORY INFORMATION<br/>
 OS VII.4: Ontology-based Masking Loss for Improved Generalization in Remote Sensing Semantic Retrieval<br/>
 Arne Schumann (Fraunhofer IOSB); Lars Sommer (Fraunhofer IOSB, Karlsruhe); Max Vogler (Fraunhofer IOSB)<br/><br/>
 OS VII.5: Rotation-invariant Binary Representation of Sensor Pattern Noise for Source-Oriented Image and Video Clustering<br/>
-Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
+Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)<br/><br/>
+PS VI.1: Latent Body-Pose guided DenseNet for Recognizing Driver's Fine-grained Secondary Activities<br/>
+Ardhendu Behera (Edge Hill University); Alexander H Keidel (Edge Hill University)<br/><br/>
+PS VI.2: A Blockchain Implementation for the Cataloguing of CCTV Video Evidence<br/>
+Michael Kerr (ACIC); Ron van Schyndel (RMIT University); Fengling Han (RMIT University)<br/><br/>
+PS VI.3: Encrypted Domain Skin Tone Detection For Pornographic Image Filtering<br/>
+Waheeb Yaqub (New York University Abu Dhabi); Manoranjan Mohanty (University of Auckland); Nasir Memon (New York University)<br/><br/>
+PS VI.4: Multimodel Drunk Density Estimation for Safety Assessment<br/>
+pratibha kumari (IIT ROAPR); mandhatya singh (IIT ROPAR); Mukesh Saini (IIT Ropar)<br/><br/>
+PS VI.5: Context is King: Privacy Perceptions of Camera-based Surveillance<br/>
+Andrew Tzer-Yeu Chen (University of Auckland); Morteza Biglari-Abhari (University of Auckland); Kevin I-Kai Wang (University of Auckland)
 </span>
 
 1230-1330 Day III Lunch, WG201<br/>
