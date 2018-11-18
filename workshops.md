@@ -13,7 +13,7 @@ Camera-ready deadline: 15 October 2018<br/>
 <hr/>
 
 Workshop I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">**Workshop on Smart Image Sensor Systems**</a><br/>
-Workshop II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">**Human Behavior Analysis based on Video Analytics and Deep Learning**</a><br/>
+Workshop II: **Human Behavior Analysis based on Video Analytics and Deep Learning**<br/>
 Workshop III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">**International Workshop on Multi-source Surveillance for Public Safety and Healthcare**</a><br/>
 Workshop IV: <a href="https://cyber.bgu.ac.il/svss2018/">**International Workshop on the Security of Video Surveillance Systems (SVSS 2018)**</a><br/>
 Workshop V: <a href="https://iwt4s2018.wordpress.com">**Traffic and Street Surveillance for Safety and Security (T4S)**</a><br/>
@@ -40,7 +40,7 @@ For more information, see the <a href="http://wolf.ece.gatech.edu/avss-2018-work
 
 <hr/>
 
-Workshop II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">**Human Behavior Analysis based on Video Analytics and Deep Learning**</a>
+Workshop II: **Human Behavior Analysis based on Video Analytics and Deep Learning**
 - Maheshkumar H Kolekar, Inidian Institute of Technology Patna<br/>(<a href="mailto:mahesh@iitp.ac.in">mahesh@iitp.ac.in</a>)
 - R. Balasubramanian, Indian Institute of Technology Roorkee<br/>(<a href="mailto:balarfma@iitr.ac.in">balarfma@iitr.ac.in</a>)
 

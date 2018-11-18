@@ -44,7 +44,7 @@ Our full <a href="/assets/AVSS2018-Conference-Handbook.pdf">conference handbook<
 0900-1710 CS I: <a href="https://iwt4s2018.wordpress.com/">Challenge on Advanced Traffic Monitoring</a>, WG908<br/>
 0900-1710 CS II: <a href="https://semanticsbsearch.wordpress.com/">Semantic Person Retrieval in Surveillance Using Soft Biometrics</a>, WG902<br/><br/>
 1330-1710 WS I: <a href="http://wolf.ece.gatech.edu/avss-2018-workshop-on-smart-image-sensor-systems/">Workshop on Smart Image Sensor Systems</a>, WG903<br/>
-0900-1230 WS II: <a href="http://faculty.iitr.ac.in/~balarfma/AVSS/avss2018_HBA.html">Human Behavior Analysis based on Video Analytics and Deep Learning</a>, WG903A<br/>
+0900-1230 WS II: Human Behavior Analysis based on Video Analytics and Deep Learning, WG903A<br/>
 0900-1230 WS III: <a href="http://www.iitrpr.ac.in/mukesh/wnc/avss2018/mss18.html">International Workshop on Multi-source Surveillance for Public Safety and Healthcare</a>, WG903A<br/>
 0900-1230 WS IV: <a href="https://cyber.bgu.ac.il/svss2018/">International Workshop on the Security of Video Surveillance Systems (SVSS 2018)</a>, WG903A<br/>
 0900-1710 WS V: <a href="https://iwt4s2018.wordpress.com">Traffic and Street Surveillance for Safety and Security (T4S)</a>, WG908<br/>
