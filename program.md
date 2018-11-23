@@ -32,7 +32,7 @@ Our full <a href="/assets/AVSS2018-Conference-Handbook.pdf">conference handbook<
 | 13.30 - 15.00pm  | Session 3                                    | <a href="/keynote_jain">Keynote 2</a>              | Oral Session 4                                     | Oral Session 6                                     |
 | 15.00 - 15.30pm  | **Afternoon Tea**                            | **Afternoon Tea**                                  | **Afternoon Tea**                                  | **Afternoon Tea**                                  |
 | 15.30 - 17.10pm  | Session 4                                    | Oral Session 2                                     |                                                    | Oral Session 7                                     |
-| 18.30 - 21.00pm  | City Tour                                    | Welcome Reception                                  | Conference Dinner at WG308 | Farewell / Best Paper Awards |
+| 18.30 - 21.00pm  | City Tour                                    | Welcome Reception (from 1730)                      | Conference Dinner at WG308 | Farewell / Best Paper Awards (from 1730) |
 
 **Full Program**<br/><br/>
 
@@ -132,7 +132,7 @@ OS II.4: CAMEL Dataset for Visual and Thermal Infrared Multiple Object Detection
 Evan T Gebhardt (Georgia Institute of Technology)
 </span>
 
-1830-2100 <b>Welcome Reception</b>, WG201
+1730-1900 <b>Welcome Reception</b>, WG201
 
 <b>Thursday 29 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
@@ -308,4 +308,4 @@ OS VII.5: Rotation-invariant Binary Representation of Sensor Pattern Noise for S
 Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
 </span>
 
-1830-2100 <b>Conference Farewell / Best Paper Awards</b>, WA224
+1730-1900 <b>Conference Farewell / Best Paper Awards</b>, WA224
