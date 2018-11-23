@@ -32,7 +32,7 @@ Our full <a href="/assets/AVSS2018-Conference-Handbook.pdf">conference handbook<
 | 13.30 - 15.00pm  | Session 3                                    | <a href="/keynote_jain">Keynote 2</a>              | Oral Session 4                                     | Oral Session 6                                     |
 | 15.00 - 15.30pm  | **Afternoon Tea**                            | **Afternoon Tea**                                  | **Afternoon Tea**                                  | **Afternoon Tea**                                  |
 | 15.30 - 17.10pm  | Session 4                                    | Oral Session 2                                     |                                                    | Oral Session 7                                     |
-| 18.30 - 21.00pm  | City Tour                                    | Welcome Reception                                  | <a href="https://avss2018.org/venue">Conference Dinner at Wintergarden Pavillion</a> | Farewell / Best Paper Awards |
+| 18.30 - 21.00pm  | City Tour                                    | Welcome Reception                                  | Conference Dinner at WG308 | Farewell / Best Paper Awards |
 
 **Full Program**<br/><br/>
 
@@ -212,7 +212,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 </span>
 
 1500-1530 Day II Afternoon Tea, WG201<br/>
-1830-2100 <b>Conference Dinner</b>, <a href="https://avss2018.org/venue">Wintergarden Pavillion</a>
+1830-2100 <b>Conference Dinner</b>, WG308
 
 <b>Friday 30 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
