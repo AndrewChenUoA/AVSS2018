@@ -32,7 +32,7 @@ Our full <a href="/assets/AVSS2018-Conference-Handbook.pdf">conference handbook<
 | 13.30 - 15.00pm  | Session 3                                    | <a href="/keynote_jain">Keynote 2</a>              | Oral Session 4                                     | Oral Session 6                                     |
 | 15.00 - 15.30pm  | **Afternoon Tea**                            | **Afternoon Tea**                                  | **Afternoon Tea**                                  | **Afternoon Tea**                                  |
 | 15.30 - 17.10pm  | Session 4                                    | Oral Session 2                                     |                                                    | Oral Session 7                                     |
-| 18.30 - 21.00pm  | City Tour                                    | Welcome Reception (from 1730)                      | Conference Dinner at WG308 | Farewell / Best Paper Awards (from 1730) |
+| Evening Event    | City Tour                                    | Welcome Reception (from 1730)                      | Conference Dinner at WG308 (from 1800) | Farewell / Best Paper Awards (from 1730) |
 
 **Full Program**<br/><br/>
 
@@ -123,7 +123,7 @@ Juan Diego Gonzales Zuniga (INRIA); NGUYEN THI LAN ANH (INRIA Sophia-Antipolis);
 1530-1710 <b>Oral Session II: Object Detection, Recognition, and Tracking</b>, WA224<br/>
 <span style="font-size:12pt">
 OS II.1: Wardrobe Model for Long Term Re-identification and Appearance Prediction<br/>
-Kyung Won Lee (SUNY at buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
+Kyung Won Lee (SUNY at Buffalo); Nishant Sankaran (University at Buffalo); Srirangaraj Setlur (University at Buffalo, SUNY); Nils Napp (University at Buffalo); Venu Govindaraju (University at Buffalo, SUNY)<br/><br/>
 OS II.2: Combining Local and Global Models for Robust Re-detection in Generic Object Tracking<br/>
 Goutam Bhat (Linköping University); Martin Danelljan (Linköping University); Fahad Shahbaz Khan (Linköping University); Michael Felsberg (Linköping University)<br/><br/>
 OS II.3: Cascade-Dispatched Classifier Ensemble and Regressor for Pedestrian Detection<br/>
@@ -212,7 +212,7 @@ Jun-Wei Hsieh (National Taiwan Ocean University)
 </span>
 
 1500-1530 Day II Afternoon Tea, WG201<br/>
-1830-2100 <b>Conference Dinner</b>, WG308
+1800-2100 <b>Conference Dinner</b>, WG308
 
 <b>Friday 30 November 2018</b><br/>
 0830-0900 Conference Registration, WG201<br/>
@@ -294,7 +294,7 @@ Vincent Marié (Aix Marseille Univ, Université de Toulon); Ikhlef Bechar (Aix M
 </span>
 
 1500-1530 Day III Afternoon Tea, WG201<br/>
-1530-1610 <b>Oral Session VII: Sensors and Security</b>, WA224<br/>
+1530-1710 <b>Oral Session VII: Sensors and Security</b>, WA224<br/>
 <span style="font-size:12pt">
 OS VII.1: Deepfake Video Detection Using Recurrent Neural Networks<br/>
 David Güera (Purdue University); Edward Delp (Purdue University)<br/><br/>
