@@ -118,7 +118,7 @@ Juan Diego Gonzales Zuniga (INRIA); NGUYEN THI LAN ANH (INRIA Sophia-Antipolis);
 </span>
 
 1230-1330 Day I Lunch, WG201<br/>
-1330-1500 <b>Keynote Speech II: Professor Ramesh Jain</b> (University of California Irvine, USA), WA224<br/>
+1330-1500 <b>Keynote Speech II: <a href="/keynote_jain">Professor Ramesh Jain</a></b> (University of California Irvine, USA), WA224<br/>
 1500-1530 Day I Afternoon Tea, WG201<br/><br/>
 1530-1710 <b>Oral Session II: Object Detection, Recognition, and Tracking</b>, WA224<br/>
 <span style="font-size:12pt">
