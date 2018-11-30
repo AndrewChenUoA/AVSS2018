@@ -308,7 +308,7 @@ OS VII.5: Rotation-invariant Binary Representation of Sensor Pattern Noise for S
 Xufeng Lin (Charles Sturt University); Chang-Tsun Li (Charles Sturt University)
 </span>
 
-1730-1900 <b>Conference Farewell / Best Paper Awards</b>, WA224<br/><br/>
+1730-1900 <b>Conference Farewell / Best Paper Awards</b>, WA224<br/>
 
 Best Paper Award:<br/>
 Rotation-invariant Binary Representation of Sensor Pattern Noise for Source-Oriented Image and Video Clustering<br/>
